@@ -1,0 +1,42 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+doamh                                                             0x0160       4
+doaml                                                             0x0164       4
+nhietdoh                                                          0x0168       4
+nhietdol                                                          0x016C       4
+nhietdo                                                           0x0170       4
+doam                                                              0x0174       4
+remember_t                                                        0x0178       1
+count_i                                                           0x0179       2
+_seed                                                             0x017B       4
+_base_y                                                           0x017F       4
+_lcd_x                                                            0x0183       1
+_lcd_y                                                            0x0184       1
+_lcd_maxx                                                         0x0185       1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+hong1                                                             0x0000       2
+hong2                                                             0x0002       2
+hong3                                                             0x0004       2
+count_egg                                                         0x0006       2
+nhietdocd                                                         0x0008       2
+dttudong                                                          0x000A       2
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+count_am2301                                                      R4,R5        2
+count_key                                                         R6,R7        2
+count_delay                                                       R8,R9        2
+count_eep                                                         R10,R11      2
+set_am2301                                                        R2.0      1bit
+set_key                                                           R2.1      1bit
+set_egg                                                           R2.2      1bit
+ht_count_egg                                                      R12,R13      2
+button_tl                                                         R2.3      1bit
+button_tx                                                         R2.4      1bit
+button_motor                                                      R2.5      1bit
+button_sw                                                         R2.6      1bit

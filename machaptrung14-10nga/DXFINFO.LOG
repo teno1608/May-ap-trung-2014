@@ -1,0 +1,876 @@
+WARNING (------): DXF version not recognised or not release 12-15.
+ASCII DXF release 15 is recommended
+WARNING (000136): BLOCK object group 3 unknown/not supported - ignored.
+CIRCLE entity, line 138
+CIRCLE: layer="0", c=(0,0), r=323
+SYMBOL: layer="0", name="D10", org=(0,0), 1 entities.
+WARNING (000164): BLOCK object group 3 unknown/not supported - ignored.
+CIRCLE entity, line 166
+CIRCLE: layer="0", c=(0,0), r=1129
+SYMBOL: layer="0", name="D11", org=(0,0), 1 entities.
+WARNING (000192): BLOCK object group 3 unknown/not supported - ignored.
+POLYLINE entity, line 194
+WARNING (000206): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (000208): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (000212): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000220): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000228): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000236): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="0", flags=0x01, #pts=5, 0=(-381,-1270), 1=(381,-1270), 2=(381,1270), 3=(-381,1270), 4=(-381,-1270)
+SYMBOL: layer="0", name="D12", org=(0,0), 1 entities.
+WARNING (000262): BLOCK object group 3 unknown/not supported - ignored.
+POLYLINE entity, line 264
+WARNING (000274): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (000276): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (000282): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000292): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000302): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000312): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000322): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000332): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000342): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000352): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="0", flags=0x01, #pts=9, 0=(-1935,2452), 1=(-1161,3226), 2=(1161,3226), 3=(1935,2452), 4=(1935,-2452), 5=(1161,-3226), 6=(-1161,-3226), 7=(-1935,-2452), 8=(-1935,2452)
+SYMBOL: layer="0", name="D13", org=(0,0), 1 entities.
+WARNING (000380): BLOCK object group 3 unknown/not supported - ignored.
+POLYLINE entity, line 382
+WARNING (000392): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (000394): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (000400): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000410): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000420): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000430): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000440): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000450): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000460): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000470): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="0", flags=0x01, #pts=9, 0=(-3226,1161), 1=(-2452,1935), 2=(2452,1935), 3=(3226,1161), 4=(3226,-1161), 5=(2452,-1935), 6=(-2452,-1935), 7=(-3226,-1161), 8=(-3226,1161)
+SYMBOL: layer="0", name="D14", org=(0,0), 1 entities.
+WARNING (000498): BLOCK object group 3 unknown/not supported - ignored.
+POLYLINE entity, line 500
+WARNING (000512): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (000514): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (000518): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000526): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000534): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000542): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="0", flags=0x01, #pts=5, 0=(-1452,-1839), 1=(1452,-1839), 2=(1452,1839), 3=(-1452,1839), 4=(-1452,-1839)
+SYMBOL: layer="0", name="D15", org=(0,0), 1 entities.
+WARNING (000568): BLOCK object group 3 unknown/not supported - ignored.
+POLYLINE entity, line 570
+WARNING (000582): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (000584): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (000588): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000596): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000604): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000612): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="0", flags=0x01, #pts=5, 0=(-1613,-1290), 1=(1613,-1290), 2=(1613,1290), 3=(-1613,1290), 4=(-1613,-1290)
+SYMBOL: layer="0", name="D16", org=(0,0), 1 entities.
+WARNING (000638): BLOCK object group 3 unknown/not supported - ignored.
+POLYLINE entity, line 640
+WARNING (000652): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (000654): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (000658): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000666): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000674): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000682): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="0", flags=0x01, #pts=5, 0=(-1290,-1613), 1=(1290,-1613), 2=(1290,1613), 3=(-1290,1613), 4=(-1290,-1613)
+SYMBOL: layer="0", name="D17", org=(0,0), 1 entities.
+WARNING (000708): BLOCK object group 3 unknown/not supported - ignored.
+POLYLINE entity, line 710
+WARNING (000722): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (000724): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (000728): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000736): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000744): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000752): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="0", flags=0x01, #pts=5, 0=(-1839,-1194), 1=(1839,-1194), 2=(1839,1194), 3=(-1839,1194), 4=(-1839,-1194)
+SYMBOL: layer="0", name="D18", org=(0,0), 1 entities.
+WARNING (000778): BLOCK object group 3 unknown/not supported - ignored.
+POLYLINE entity, line 780
+WARNING (000792): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (000794): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (000798): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000806): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000814): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000822): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="0", flags=0x01, #pts=5, 0=(-1194,-1839), 1=(1194,-1839), 2=(1194,1839), 3=(-1194,1839), 4=(-1194,-1839)
+SYMBOL: layer="0", name="D19", org=(0,0), 1 entities.
+WARNING (000848): BLOCK object group 3 unknown/not supported - ignored.
+SYMBOL: layer="0", name="D1010", org=(0,0), 0 entities.
+POLYLINE entity, line 860
+WARNING (000866): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (000868): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (000874): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000882): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000890): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000898): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000906): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=5, 0=(-249226,177628), 1=(-334903,177628), 2=(-334903,235112), 3=(-249226,235112), 4=(-249226,177628)
+POLYLINE entity, line 916
+WARNING (000922): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (000924): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (000930): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000938): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000946): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000954): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000962): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000970): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000978): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000986): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (000994): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001002): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001010): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001018): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001026): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001034): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001042): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001050): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001058): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001066): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001074): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001082): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001090): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001098): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001106): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001114): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001122): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001130): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001138): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001146): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001154): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001162): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001170): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001178): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001186): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001194): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001202): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001210): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001218): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001226): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001234): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=39, 0=(-254111,233969), 1=(-252494,232351), 2=(-252494,210751), 3=(-253839,209407), 4=(-253839,208656), 5=(-252799,208656), 6=(-250677,206535), 7=(-250677,191592), 8=(-250684,191585), 9=(-250684,180651), 10=(-253545,177790), 11=(-273631,177790), 12=(-275373,179532), 13=(-329581,179532), 14=(-329581,189403), 15=(-327968,189403), 16=(-327968,191567), 17=(-324390,195144), 18=(-308648,195144), 19=(-308053,195740), 20=(-308053,198421), 21=(-308111,198421), 22=(-308111,204380), 23=(-303100,204380), 24=(-303100,205596), 25=(-323164,205596), 26=(-326484,208916), 27=(-326484,209403), 28=(-329387,209403), 29=(-329387,216693), 30=(-325487,216693), 31=(-328484,219690), 32=(-328484,223338), 33=(-330097,223338), 34=(-330097,233209), 35=(-314666,233209), 36=(-313311,234564), 37=(-254707,234564), 38=(-254111,233969)
+POLYLINE entity, line 1244
+WARNING (001250): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (001252): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (001258): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001266): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001274): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001282): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001290): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=5, 0=(-319516,196499), 1=(-319516,203790), 2=(-329387,203790), 3=(-329387,196499), 4=(-319516,196499)
+POLYLINE entity, line 1300
+WARNING (001306): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (001308): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (001314): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001322): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001330): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001338): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=4, 0=(-276323,216015), 1=(-272323,216015), 2=(-271226,217112), 3=(-267935,217112)
+POLYLINE entity, line 1348
+WARNING (001354): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (001356): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (001362): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001370): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001378): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001386): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=4, 0=(-301067,207628), 1=(-322323,207628), 2=(-324452,209757), 3=(-324452,213048)
+POLYLINE entity, line 1396
+WARNING (001402): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (001404): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (001410): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001418): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001426): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=3, 0=(-300129,184467), 1=(-299416,185180), 2=(-299416,201400)
+POLYLINE entity, line 1436
+WARNING (001442): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (001444): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (001450): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001458): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001466): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001474): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001482): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=5, 0=(-274839,228274), 1=(-274839,220532), 2=(-276452,218919), 3=(-292812,218919), 4=(-292812,215370)
+POLYLINE entity, line 1492
+WARNING (001498): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (001500): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (001506): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001514): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001522): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=3, 0=(-267935,222532), 1=(-267935,227822), 2=(-268387,228274)
+POLYLINE entity, line 1532
+WARNING (001538): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (001540): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (001546): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001554): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001562): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001570): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001578): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=5, 0=(-281290,228274), 1=(-281290,222144), 2=(-282903,220532), 3=(-294463,220532), 4=(-294463,215370)
+POLYLINE entity, line 1588
+WARNING (001594): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (001596): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (001602): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001610): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001618): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001626): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001634): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=5, 0=(-287742,226728), 1=(-287742,223757), 2=(-289355,222144), 3=(-296114,222144), 4=(-296114,215370)
+POLYLINE entity, line 1644
+WARNING (001650): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (001652): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (001658): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001666): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=2, 0=(-287742,227126), 1=(-287742,226728)
+POLYLINE entity, line 1676
+WARNING (001682): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (001684): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (001690): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001698): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=2, 0=(-287742,227126), 1=(-287742,228274)
+POLYLINE entity, line 1708
+WARNING (001714): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (001716): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (001722): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001730): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001738): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001746): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=4, 0=(-294194,228274), 1=(-294194,223757), 2=(-297765,223757), 3=(-297765,215370)
+POLYLINE entity, line 1756
+WARNING (001762): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (001764): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (001770): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001778): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001786): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=3, 0=(-300645,228274), 1=(-299416,227045), 2=(-299416,215370)
+POLYLINE entity, line 1796
+WARNING (001802): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (001804): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (001810): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001818): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001826): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001834): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001842): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=5, 0=(-307097,228274), 1=(-307097,223757), 2=(-305484,222144), 3=(-301067,222144), 4=(-301067,215370)
+POLYLINE entity, line 1852
+WARNING (001858): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (001860): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (001866): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001874): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001882): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001890): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001898): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=5, 0=(-320000,228274), 1=(-320000,220532), 2=(-318387,218919), 3=(-304369,218919), 4=(-304369,215370)
+POLYLINE entity, line 1908
+WARNING (001914): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (001916): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (001922): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001930): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001938): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001946): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001954): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=5, 0=(-326452,228274), 1=(-326452,220532), 2=(-323538,217618), 3=(-306020,217618), 4=(-306020,215370)
+POLYLINE entity, line 1964
+WARNING (001970): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (001972): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (001978): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001986): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (001994): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=3, 0=(-285226,205693), 1=(-292812,205693), 2=(-292812,201400)
+POLYLINE entity, line 2004
+WARNING (002010): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002012): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002018): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002026): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002034): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=3, 0=(-282452,211951), 1=(-282452,210935), 2=(-276323,210935)
+POLYLINE entity, line 2044
+WARNING (002050): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002052): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002058): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002066): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002074): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=3, 0=(-324452,200144), 1=(-330379,200144), 2=(-330387,200152)
+POLYLINE entity, line 2084
+WARNING (002090): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002092): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002098): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002106): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=2, 0=(-330387,201177), 1=(-330387,200152)
+POLYLINE entity, line 2116
+WARNING (002122): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002124): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002130): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002138): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002146): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002154): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=4, 0=(-294637,192854), 1=(-294637,195362), 2=(-296114,196839), 3=(-296114,201400)
+POLYLINE entity, line 2164
+WARNING (002170): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002172): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002178): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002186): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002194): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002202): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002210): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002218): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002226): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=7, 0=(-294463,201400), 1=(-294463,197807), 2=(-293891,197235), 3=(-291981,197235), 4=(-290141,195394), 5=(-290141,192931), 6=(-290065,192854)
+POLYLINE entity, line 2236
+WARNING (002242): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002244): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002250): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002258): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002266): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002274): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002282): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002290): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=6, 0=(-325935,184467), 1=(-325935,190725), 2=(-323548,193112), 3=(-307806,193112), 4=(-306020,194898), 5=(-306020,201400)
+POLYLINE entity, line 2300
+WARNING (002306): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002308): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002314): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002322): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002330): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002338): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002346): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002354): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=6, 0=(-319484,184467), 1=(-319484,189886), 2=(-317871,191499), 3=(-306194,191499), 4=(-304369,193324), 5=(-304369,201400)
+POLYLINE entity, line 2364
+WARNING (002370): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002372): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002378): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002386): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002394): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002402): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002410): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002418): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=6, 0=(-313032,184467), 1=(-313032,188403), 2=(-311548,189886), 3=(-304581,189886), 4=(-302718,191749), 5=(-302718,201400)
+POLYLINE entity, line 2428
+WARNING (002434): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002436): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002442): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002450): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002458): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002466): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002474): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002482): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=6, 0=(-301067,201400), 1=(-301067,189886), 2=(-302680,188274), 3=(-305742,188274), 4=(-306581,187435), 5=(-306581,184467)
+POLYLINE entity, line 2492
+WARNING (002498): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002500): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002506): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002514): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002522): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002530): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002538): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002546): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002554): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002562): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=8, 0=(-292812,201400), 1=(-292812,199769), 2=(-291286,198243), 3=(-289934,198243), 4=(-282868,191177), 5=(-275484,191177), 6=(-274323,190015), 7=(-274323,184467)
+POLYLINE entity, line 2572
+WARNING (002578): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002580): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002586): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002594): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002602): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002610): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002618): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002626): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=6, 0=(-290065,192854), 1=(-286581,189370), 2=(-282387,189370), 3=(-281613,188596), 4=(-281613,185306), 5=(-280774,184467)
+POLYLINE entity, line 2636
+WARNING (002642): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002644): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002650): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002658): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002666): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002674): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002682): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=5, 0=(-287226,184467), 1=(-287226,186725), 2=(-290387,189886), 3=(-294637,189886), 4=(-294637,192854)
+POLYLINE entity, line 2692
+WARNING (002698): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002700): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002706): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002714): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002722): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002730): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=4, 0=(-293677,184467), 1=(-293677,186532), 2=(-297765,190619), 3=(-297765,201400)
+POLYLINE entity, line 2740
+WARNING (002746): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002748): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002754): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002762): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=2, 0=(-313548,227822), 1=(-313548,228274)
+POLYLINE entity, line 2772
+WARNING (002778): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002780): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002786): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002794): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002802): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002810): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002818): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=5, 0=(-313548,227822), 1=(-313548,222144), 2=(-311935,220532), 3=(-302718,220532), 4=(-302718,215370)
+POLYLINE entity, line 2828
+WARNING (002834): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002836): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002842): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002850): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002858): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002866): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002874): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002882): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002890): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002898): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=8, 0=(-267935,222532), 1=(-264581,222532), 2=(-264581,214467), 3=(-265572,213475), 4=(-278170,213475), 5=(-282000,217306), 6=(-291161,217306), 7=(-291161,215370)
+POLYLINE entity, line 2908
+WARNING (002914): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002916): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002922): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002930): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002938): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002946): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002954): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002962): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (002970): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=7, 0=(-330387,201177), 1=(-330387,214080), 2=(-328328,216139), 3=(-312645,216139), 4=(-308457,211951), 5=(-287226,211951), 6=(-287024,211951)
+POLYLINE entity, line 2980
+WARNING (002986): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (002988): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (002994): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003002): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003010): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003018): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003026): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003034): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003042): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=7, 0=(-291161,201400), 1=(-290869,201400), 2=(-282581,193112), 3=(-272452,193112), 4=(-267814,188475), 5=(-267814,187048), 6=(-267871,184467)
+POLYLINE entity, line 3052
+WARNING (003058): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (003060): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (003066): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003074): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003082): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003090): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=4, 0=(-277372,198403), 1=(-273952,194983), 2=(-272065,194983), 3=(-272065,195693)
+POLYLINE entity, line 3100
+WARNING (003106): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (003108): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (003114): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003122): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003130): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=3, 0=(-282628,203306), 1=(-285226,203306), 2=(-285226,205693)
+POLYLINE entity, line 3140
+WARNING (003146): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (003148): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (003154): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003162): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=2, 0=(-301067,207628), 1=(-301067,206983)
+POLYLINE entity, line 3172
+WARNING (003178): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (003180): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (003186): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003194): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003202): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003210): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003218): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=5, 0=(-282452,198403), 1=(-282516,198403), 2=(-282516,203289), 3=(-282499,203306), 4=(-282628,203306)
+POLYLINE entity, line 3228
+WARNING (003234): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (003236): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (003242): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003250): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003258): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003266): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003274): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003282): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=6, 0=(-301067,201400), 1=(-301067,206983), 2=(-278862,206983), 3=(-277866,205988), 4=(-277548,205670), 5=(-277548,203306)
+POLYLINE entity, line 3292
+WARNING (003298): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (003300): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (003306): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003314): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003322): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003330): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003338): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003346): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003354): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003362): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=8, 0=(-287024,211951), 1=(-287024,209093), 2=(-286805,208875), 3=(-286138,208208), 4=(-270259,208208), 5=(-266984,204933), 6=(-266984,202096), 7=(-266968,202080)
+POLYLINE entity, line 3372
+WARNING (003378): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (003380): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (003386): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003394): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=2, 0=(-272034,202052), 1=(-271540,201558)
+POLYLINE entity, line 3404
+WARNING (003410): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (003412): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (003418): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003426): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003434): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003442): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003450): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003458): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003466): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003474): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003482): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=9, 0=(-277548,203306), 1=(-273051,203306), 2=(-272991,203247), 3=(-272034,202052), 4=(-271540,201435), 5=(-271540,201558), 6=(-271540,202080), 7=(-269088,199628), 8=(-269088,199106)
+POLYLINE entity, line 3492
+WARNING (003498): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (003500): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (003506): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003514): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=2, 0=(-271540,201558), 1=(-269088,199106)
+POLYLINE entity, line 3524
+WARNING (003530): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (003532): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (003538): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003546): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003554): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=3, 0=(-266645,195693), 1=(-266645,201757), 2=(-266968,202080)
+POLYLINE entity, line 3564
+WARNING (003570): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (003572): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (003578): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003586): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003594): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003602): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003610): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003618): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003626): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003634): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=8, 0=(-276323,210935), 1=(-265029,210935), 2=(-263835,212130), 3=(-262883,213082), 4=(-262883,215658), 5=(-262155,216386), 6=(-262000,216386), 7=(-258774,216338)
+POLYLINE entity, line 3644
+WARNING (003650): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (003652): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (003658): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003666): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003674): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003682): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003690): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003698): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003706): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003714): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003722): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=9, 0=(-269088,199106), 1=(-269088,193196), 2=(-267968,192076), 3=(-255143,192076), 4=(-254065,193155), 5=(-254065,201564), 6=(-255778,203277), 7=(-258616,203277), 8=(-258774,203435)
+POLYLINE entity, line 3732
+WARNING (003738): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (003740): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (003746): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003754): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003762): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003770): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003778): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003786): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003794): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003802): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003810): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003818): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003826): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003834): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=12, 0=(-274323,184467), 1=(-274323,181355), 2=(-272790,179822), 3=(-254387,179822), 4=(-252716,181493), 5=(-252716,192427), 6=(-252710,192433), 7=(-252710,205693), 8=(-253640,206624), 9=(-263553,206624), 10=(-263553,209459), 11=(-265029,210935)
+POLYLINE entity, line 3844
+WARNING (003850): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (003852): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (003858): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003866): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003874): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003882): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003890): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003898): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003906): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003914): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=8, 0=(-313548,228274), 1=(-313548,231452), 2=(-312469,232532), 3=(-255548,232532), 4=(-254526,231510), 5=(-254526,211593), 6=(-256233,209886), 7=(-258774,209886)
+POLYLINE entity, line 3924
+WARNING (003930): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (003932): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (003938): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003946): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003954): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003962): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (003970): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=5, 0=(-287226,184467), 1=(-287161,184403), 2=(-287161,179435), 3=(-330387,179435), 4=(-330387,200152)
+POLYLINE entity, line 3980
+WARNING (003986): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (003988): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (003994): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004002): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004010): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=3, 0=(-266645,195693), 1=(-260065,195693), 2=(-258774,196983)
+POLYLINE entity, line 4020
+WARNING (004026): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (004028): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (004034): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004042): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004050): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004058): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004066): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=5, 0=(-249226,177628), 1=(-334903,177628), 2=(-334903,235112), 3=(-249226,235112), 4=(-249226,177628)
+POLYLINE entity, line 4076
+WARNING (004082): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (004084): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (004090): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004098): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004106): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004114): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004122): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004130): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004138): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004146): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004154): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004162): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004170): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004178): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004186): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004194): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004202): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004210): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004218): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004226): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004234): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004242): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004250): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004258): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004266): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004274): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004282): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004290): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004298): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004306): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004314): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004322): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004330): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004338): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004346): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004354): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004362): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004370): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004378): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004386): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004394): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=39, 0=(-254111,233969), 1=(-252494,232351), 2=(-252494,210751), 3=(-253839,209407), 4=(-253839,208656), 5=(-252799,208656), 6=(-250677,206535), 7=(-250677,191592), 8=(-250684,191585), 9=(-250684,180651), 10=(-253545,177790), 11=(-273631,177790), 12=(-275373,179532), 13=(-329581,179532), 14=(-329581,189403), 15=(-327968,189403), 16=(-327968,191567), 17=(-324390,195144), 18=(-308648,195144), 19=(-308053,195740), 20=(-308053,198421), 21=(-308111,198421), 22=(-308111,204380), 23=(-303100,204380), 24=(-303100,205596), 25=(-323164,205596), 26=(-326484,208916), 27=(-326484,209403), 28=(-329387,209403), 29=(-329387,216693), 30=(-325487,216693), 31=(-328484,219690), 32=(-328484,223338), 33=(-330097,223338), 34=(-330097,233209), 35=(-314666,233209), 36=(-313311,234564), 37=(-254707,234564), 38=(-254111,233969)
+POLYLINE entity, line 4404
+WARNING (004410): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (004412): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (004418): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004426): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004434): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004442): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004450): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=5, 0=(-319516,196499), 1=(-319516,203790), 2=(-329387,203790), 3=(-329387,196499), 4=(-319516,196499)
+POLYLINE entity, line 4460
+WARNING (004466): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (004468): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (004474): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004482): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=2, 0=(-287226,179532), 1=(-287226,184467)
+POLYLINE entity, line 4492
+WARNING (004498): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (004500): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (004506): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004514): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=2, 0=(-324452,196499), 1=(-324452,200144)
+POLYLINE entity, line 4524
+WARNING (004530): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (004532): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (004538): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004546): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=2, 0=(-324452,203790), 1=(-324452,200144)
+POLYLINE entity, line 4556
+WARNING (004562): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (004564): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (004570): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004578): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=2, 0=(-319516,200144), 1=(-324452,200144)
+POLYLINE entity, line 4588
+WARNING (004594): POLYLINE entity group 40 unknown/not supported - ignored.
+WARNING (004596): POLYLINE entity group 41 unknown/not supported - ignored.
+WARNING (004602): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (004610): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="gbr", flags=0x00, #pts=2, 0=(-329387,200144), 1=(-324452,200144)
+INSERT entity, line 4620
+WARNING (004634): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-306020,201400), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4638
+WARNING (004652): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-304369,201400), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4656
+WARNING (004670): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-302718,201400), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4674
+WARNING (004688): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-301067,201400), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4692
+WARNING (004706): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-299416,201400), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4710
+WARNING (004724): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-297765,201400), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4728
+WARNING (004742): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-296114,201400), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4746
+WARNING (004760): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-294463,201400), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4764
+WARNING (004778): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-292812,201400), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4782
+WARNING (004796): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-291161,201400), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4800
+WARNING (004814): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-291161,215370), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4818
+WARNING (004832): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-292812,215370), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4836
+WARNING (004850): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-294463,215370), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4854
+WARNING (004868): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-296114,215370), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4872
+WARNING (004886): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-297765,215370), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4890
+WARNING (004904): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-299416,215370), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4908
+WARNING (004922): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-301067,215370), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4926
+WARNING (004940): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-302718,215370), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4944
+WARNING (004958): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-304369,215370), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4962
+WARNING (004976): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D12", o=(-306020,215370), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4980
+WARNING (004994): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-326452,228274), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 4998
+WARNING (005012): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-320000,228274), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5016
+WARNING (005030): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-313548,228274), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5034
+WARNING (005048): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-307097,228274), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5052
+WARNING (005066): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-300645,228274), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5070
+WARNING (005084): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-294194,228274), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5088
+WARNING (005102): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-287742,228274), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5106
+WARNING (005120): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-281290,228274), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5124
+WARNING (005138): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-274839,228274), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5142
+WARNING (005156): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-268387,228274), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5160
+WARNING (005174): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-267871,184467), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5178
+WARNING (005192): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-274323,184467), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5196
+WARNING (005210): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-280774,184467), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5214
+WARNING (005228): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-287226,184467), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5232
+WARNING (005246): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-293677,184467), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5250
+WARNING (005264): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-300129,184467), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5268
+WARNING (005282): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-306581,184467), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5286
+WARNING (005300): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-313032,184467), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5304
+WARNING (005318): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-319484,184467), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5322
+WARNING (005336): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D13", o=(-325935,184467), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5340
+WARNING (005354): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D14", o=(-258774,216338), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5358
+WARNING (005372): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D14", o=(-258774,209886), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5376
+WARNING (005390): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D14", o=(-258774,203435), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5394
+WARNING (005408): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D14", o=(-258774,196983), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5412
+WARNING (005426): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D15", o=(-294637,192854), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5430
+WARNING (005444): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D15", o=(-290065,192854), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5448
+WARNING (005462): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D14", o=(-324452,213048), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5466
+WARNING (005480): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D14", o=(-324452,200144), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5484
+WARNING (005498): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D15", o=(-266968,202080), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5502
+WARNING (005516): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D15", o=(-271540,202080), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5520
+WARNING (005534): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D15", o=(-287024,211951), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5538
+WARNING (005552): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D15", o=(-282452,211951), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5556
+WARNING (005570): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D16", o=(-267935,217112), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5574
+WARNING (005588): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D16", o=(-267935,222532), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5592
+WARNING (005606): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D17", o=(-272065,195693), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5610
+WARNING (005624): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D17", o=(-266645,195693), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5628
+WARNING (005642): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D18", o=(-276323,216015), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5646
+WARNING (005660): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D18", o=(-276323,210935), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5664
+WARNING (005678): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D19", o=(-277548,203306), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5682
+WARNING (005696): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D19", o=(-282628,203306), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5700
+WARNING (005714): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D19", o=(-277372,198403), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 5718
+WARNING (005732): INSERT entity group 43 unknown/not supported - ignored.
+INSERT: layer="gbr", name="D19", o=(-282452,198403), rot=0.0ø, xscale=1.000000, yscale=1.000000

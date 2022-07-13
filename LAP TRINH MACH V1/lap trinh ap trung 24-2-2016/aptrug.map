@@ -1,0 +1,25 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+i                                                                 0x0160       4
+a                                                                 0x0164       4
+nhietdo                                                           0x0168       4
+doam                                                              0x016C       4
+kiemtra                                                           0x0170       4
+doamh                                                             0x0174       4
+doaml                                                             0x0178       4
+nhietdoh                                                          0x017C       4
+nhietdol                                                          0x0180       4
+kiemtrah                                                          0x0184       4
+_base_y                                                           0x0188       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+_lcd_x                                                            R5           1
+_lcd_y                                                            R4           1
+_lcd_maxx                                                         R7           1

@@ -1,0 +1,131 @@
+Starting (copy all comps)
+Loading merge file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Component C13 copied and renamed to C13000000000
+Component C14 copied and renamed to C14000000000
+Component C15 copied and renamed to C15000000000
+Component C16 copied and renamed to C16000000000
+Component C17 copied and renamed to C17000000000
+Component C18 copied and renamed to C18000000000
+Component C19 copied and renamed to C19000000000
+Component C20 copied and renamed to C20000000000
+Component C21 copied and renamed to C21000000000
+Component C22 copied and renamed to C22000000000
+Component D35 copied and renamed to D35000000000
+Component D36 copied and renamed to D36000000000
+Component D37 copied and renamed to D37000000000
+Component D38 copied and renamed to D38000000000
+Component D39 copied and renamed to D39000000000
+Component D40 copied and renamed to D40000000000
+Component D41 copied and renamed to D41000000000
+Component D42 copied and renamed to D42000000000
+Component D57 copied and renamed to D57000000000
+Component D58 copied and renamed to D58000000000
+Component D59 copied and renamed to D59000000000
+Component D60 copied and renamed to D60000000000
+Component D61 copied and renamed to D61000000000
+Component D62 copied and renamed to D62000000000
+Component D63 copied and renamed to D63000000000
+Component D64 copied and renamed to D64000000000
+Component J5 copied and renamed to J5000000000
+Component J6 copied and renamed to J6000000000
+Component J7 copied and renamed to J7000000000
+Component J8 copied and renamed to J8000000000
+Component J9 copied and renamed to J9000000000
+Component J10 copied and renamed to J10000000000
+Component J11 copied and renamed to J11000000000
+Component J12 copied and renamed to J12000000000
+Component J13 copied and renamed to J13000000000
+Component J14 copied and renamed to J14000000000
+Component M2DC8 copied and renamed to M2DC8000000000
+Component M2DC9 copied and renamed to M2DC9000000000
+Component M2DC10 copied and renamed to M2DC10000000000
+Component M2DC11 copied and renamed to M2DC11000000000
+Component M2DC12 copied and renamed to M2DC12000000000
+Component M2DC13 copied and renamed to M2DC13000000000
+Component M2DC14 copied and renamed to M2DC14000000000
+Component M2DC15 copied and renamed to M2DC15000000000
+Component PC817 copied and renamed to PC817000000000
+Component PC818 copied and renamed to PC818000000000
+Component PC819 copied and renamed to PC819000000000
+Component PC820 copied and renamed to PC820000000000
+Component PC821 copied and renamed to PC821000000000
+Component PC822 copied and renamed to PC822000000000
+Component PC823 copied and renamed to PC823000000000
+Component PC824 copied and renamed to PC824000000000
+Component R31 copied and renamed to R31000000000
+Component R32 copied and renamed to R32000000000
+Component R33 copied and renamed to R33000000000
+Component R34 copied and renamed to R34000000000
+Component R35 copied and renamed to R35000000000
+Component R36 copied and renamed to R36000000000
+Component R37 copied and renamed to R37000000000
+Component R38 copied and renamed to R38000000000
+Component R39 copied and renamed to R39000000000
+Component R40 copied and renamed to R40000000000
+Component R41 copied and renamed to R41000000000
+Component R42 copied and renamed to R42000000000
+Component R43 copied and renamed to R43000000000
+Component R44 copied and renamed to R44000000000
+Component R45 copied and renamed to R45000000000
+Component R46 copied and renamed to R46000000000
+Component R94 copied and renamed to R94000000000
+Component R95 copied and renamed to R95000000000
+Component R96 copied and renamed to R96000000000
+Component R97 copied and renamed to R97000000000
+Component R98 copied and renamed to R98000000000
+Component R99 copied and renamed to R99000000000
+Component R100 copied and renamed to R100000000000
+Component R101 copied and renamed to R101000000000
+Net 5V merged into existing net
+Net 15V merged into existing net
+Net 24V merged into existing net
+Net DEN1 merged into existing net
+Net DEN2 merged into existing net
+Net DEN3 merged into existing net
+Net DEN4 merged into existing net
+Net DEN5 merged into existing net
+Net DEN6 merged into existing net
+Net DEN7 merged into existing net
+Net DEN8 merged into existing net
+Net GND merged into existing net
+Net N10689335 merged into existing net
+Net N10689423 merged into existing net
+Net N10689463 merged into existing net
+Net N10689900 merged into existing net
+Net N10696560 merged into existing net
+Net N10696640 merged into existing net
+Net N10696728 merged into existing net
+Net N10696766 merged into existing net
+Net N10697422 merged into existing net
+Net N10697514 merged into existing net
+Net N10697594 merged into existing net
+Net N10697678 merged into existing net
+Net N10697712 merged into existing net
+Net N10697760 merged into existing net
+Net N10697848 merged into existing net
+Net N10697886 merged into existing net
+Net N10698955 merged into existing net
+Net N10699047 merged into existing net
+Net N10699127 merged into existing net
+Net N10699211 merged into existing net
+Net N10699245 merged into existing net
+Net N10699293 merged into existing net
+Net N10699381 merged into existing net
+Net N10699419 merged into existing net
+Net N10700313 merged into existing net
+Net N10700393 merged into existing net
+Net N10700477 merged into existing net
+Net N10700511 merged into existing net
+Net N10700555 merged into existing net
+Net N10700651 merged into existing net
+Net N10700719 merged into existing net
+Net N10700769 merged into existing net
+Net N106893771 merged into existing net
+Net N106966661 merged into existing net
+Net N106976201 merged into existing net
+Net N106977861 merged into existing net
+Net N106991531 merged into existing net
+Net N106993191 merged into existing net
+Net N107004191 merged into existing net
+Net N107006811 merged into existing net
+Complete

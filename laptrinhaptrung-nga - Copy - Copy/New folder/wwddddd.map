@@ -1,0 +1,24 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+_base_y                                                           0x0160       4
+_lcd_x                                                            0x0164       1
+_lcd_y                                                            0x0165       1
+_lcd_maxx                                                         0x0166       1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+count_am2301                                                      R4,R5        2
+count_key                                                         R6,R7        2
+count_delay                                                       R8,R9        2
+count_lcd                                                         R10,R11      2
+count_egg                                                         R12,R13      2
+set_am2301                                                        R2.0      1bit
+set_key                                                           R2.1      1bit
+set_egg                                                           R2.2      1bit
+set_lcd                                                           R2.3      1bit

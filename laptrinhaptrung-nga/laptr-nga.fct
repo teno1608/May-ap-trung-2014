@@ -1,0 +1,5 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"laptr-nga.c" LINE:457
+sprintf DSTACK_USAGE:14 DSTACK_LEVEL:14 FILE:"C:\cvavr2\lib\stdio.lib" LINE:1410
+_print DSTACK_USAGE:20 DSTACK_LEVEL:34 FILE:"C:\cvavr2\lib\stdio.lib" LINE:503
+strlen DSTACK_USAGE:2 DSTACK_LEVEL:36 FILE:"C:\cvavr2\lib\string.lib" LINE:1707
+timer1_ovf_isr DSTACK_USAGE:7 DSTACK_LEVEL:43 FILE:"laptr-nga.c" LINE:23

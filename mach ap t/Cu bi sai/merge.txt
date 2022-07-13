@@ -1,0 +1,114 @@
+Starting (copy all comps)
+Loading merge file D:\MAY AP TRUNG\MACH AP T\MACH AP TRUNG AM2301-2.MAX
+Component C1 copied and renamed to C1000000000
+Component C2 copied and renamed to C2000000000
+Component C4 copied and renamed to C4000000000
+Component C5 copied and renamed to C5000000000
+Component C6 copied and renamed to C6000000000
+Component C7 copied and renamed to C7000000000
+Component C10 copied and renamed to C10000000000
+Component D1 copied and renamed to D1000000000
+Component D2 copied and renamed to D2000000000
+Component D4 copied and renamed to D4000000000
+Component D5 copied and renamed to D5000000000
+Component D6 copied and renamed to D6000000000
+Component D7 copied and renamed to D7000000000
+Component D10 copied and renamed to D10000000000
+Component D52 copied and renamed to D52000000000
+Component D53 copied and renamed to D53000000000
+Component IC1 copied and renamed to IC1000000000
+Component J3 copied and renamed to J3000000000
+Component J4 copied and renamed to J4000000000
+Component J6 copied and renamed to J6000000000
+Component J7 copied and renamed to J7000000000
+Component J12 copied and renamed to J12000000000
+Component J13 copied and renamed to J13000000000
+Component J14 copied and renamed to J14000000000
+Component J17 copied and renamed to J17000000000
+Component J18 copied and renamed to J18000000000
+Component J19 copied and renamed to J19000000000
+Component J20 copied and renamed to J20000000000
+Component L4 copied and renamed to L4000000000
+Component PC818 copied and renamed to PC818000000000
+Component PC819 copied and renamed to PC819000000000
+Component PC820 copied and renamed to PC820000000000
+Component PC826 copied and renamed to PC826000000000
+Component R1 copied and renamed to R1000000000
+Component R9 copied and renamed to R9000000000
+Component R19 copied and renamed to R19000000000
+Component R95 copied and renamed to R95000000000
+Component R97 copied and renamed to R97000000000
+Component R98 copied and renamed to R98000000000
+Component R99 copied and renamed to R99000000000
+Component R100 copied and renamed to R100000000000
+Component R101 copied and renamed to R101000000000
+Component R102 copied and renamed to R102000000000
+Component R112 copied and renamed to R112000000000
+Component SW1 copied and renamed to SW1000000000
+Component SW10 copied and renamed to SW10000000000
+Component SW11 copied and renamed to SW11000000000
+Component SW12 copied and renamed to SW12000000000
+Component SW13 copied and renamed to SW13000000000
+Component U2 copied and renamed to U2000000000
+Component U3 copied and renamed to U3000000000
+Component Y1 copied and renamed to Y1000000000
+Component ~FV1 copied and renamed to ~FV1000000000
+Component ~FV2 copied and renamed to ~FV2000000000
+Component ~FV3 copied and renamed to ~FV3000000000
+Component ~FV4 copied and renamed to ~FV4000000000
+Component ~FV5 copied and renamed to ~FV5000000000
+Component ~FV6 copied and renamed to ~FV6000000000
+Component ~FV7 copied and renamed to ~FV7000000000
+Component ~FV8 copied and renamed to ~FV8000000000
+Net 17 merged into existing net
+Net 18 merged into existing net
+Net 19 merged into existing net
+Net 24V merged into existing net
+Net GND merged into existing net
+Net GND_EARTH merged into existing net
+Net LCD4 merged into existing net
+Net LCD5 merged into existing net
+Net LCD6 merged into existing net
+Net LCD7 merged into existing net
+Net N10369860 merged into existing net
+Net N10369864 merged into existing net
+Net N10370082 merged into existing net
+Net N10371387 merged into existing net
+Net N10371553 merged into existing net
+Net N10371561 merged into existing net
+Net N10371581 merged into existing net
+Net N10655772 merged into existing net
+Net N10655776 merged into existing net
+Net N10655804 merged into existing net
+Net N10655824 merged into existing net
+Net N10656760 merged into existing net
+Net N10656764 merged into existing net
+Net N10656822 merged into existing net
+Net N10656868 merged into existing net
+Net N10656892 merged into existing net
+Net N10656958 merged into existing net
+Net N10657018 merged into existing net
+Net N10657108 merged into existing net
+Net N10657144 merged into existing net
+Net N10657156 merged into existing net
+Net N10657176 merged into existing net
+Net N10669683 merged into existing net
+Net N10669691 merged into existing net
+Net N10671838 merged into existing net
+Net N10677901 merged into existing net
+Net N10678538 merged into existing net
+Net N10679423 merged into existing net
+Net N10711628 merged into existing net
+Net N10707256 merged into existing net
+Net N103713271 merged into existing net
+Net PB0 merged into existing net
+Net PB1 merged into existing net
+Net PC0 merged into existing net
+Net PC1 merged into existing net
+Net ROLE1 merged into existing net
+Net ROLE2 merged into existing net
+Net ROLE3 merged into existing net
+Net ROLE4 merged into existing net
+Net VCC merged into existing net
+Net 16 merged into existing net
+Complete

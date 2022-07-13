@@ -1,0 +1,15 @@
+AutoECO Report
+FILE-A: D:\MAY AP TRUNG\MACH AP T\MACH AP TRUNG AM2301-2.MAX
+FILE-B: D:\MAY AP TRUNG\MACH AP T\MACH AP TRUNG AM2301.MNL
+If "*EOF*" immediately follows, no changes were made
+Deleting J19.3 from net LCD4
+Adding J19.6 to net LCD4
+Deleting J19.4 from net LCD5
+Adding J19.5 to net LCD5
+Deleting J19.5 from net LCD6
+Adding J19.4 to net LCD6
+Deleting J19.6 from net LCD7
+Adding J19.3 to net LCD7
+Adding IC1.16 to net 16
+*EOF*
+No errors found

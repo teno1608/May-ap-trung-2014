@@ -1,0 +1,767 @@
+Sun Jul 27 17:10:50 UserDiv from Layout.INI for AutoECO: 60
+Sun Jul 27 17:10:50 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\METRIC.TCH
+Sun Jul 27 17:10:50 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Sun Jul 27 17:10:50 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Sun Jul 27 17:10:50 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Sun Jul 27 17:10:50 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Sun Jul 27 17:10:50 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Sun Jul 27 17:10:50 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Sun Jul 27 17:10:50 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Sun Jul 27 17:10:50 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Sun Jul 27 17:10:50 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Sun Jul 27 17:10:50 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Sun Jul 27 17:10:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:53 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:53 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:53 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:53 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:53 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:53 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:53 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:53 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:53 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:53 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:10:53 Library file not found:USER.PRT
+Sun Jul 27 17:10:53 Library file not found:USER.PRT
+Sun Jul 27 17:10:56 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Sun Jul 27 17:10:56 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Sun Jul 27 17:17:45 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Sun Jul 27 17:19:24 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Sun Jul 27 17:19:24 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:24 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Sun Jul 27 17:19:25 Loaded file G:\SOFT\SOFT STUDY\ORCAD\ORCAD 10.5 CCCCC\THUVIEN LAYOUT\THU VIEN4.LLB
+Sun Jul 27 17:19:25 Loaded file G:\SOFT\SOFT STUDY\ORCAD\ORCAD 10.5 CCCCC\THUVIEN LAYOUT\TU TAO.LLB
+Sun Jul 27 17:19:35 Loaded file G:\SOFT\SOFT STUDY\ORCAD\ORCAD 10.5 CCCCC\THUVIEN LAYOUT\THU VIEN4.LLB
+Sun Jul 27 17:19:35 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Sun Jul 27 17:19:48 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Sun Jul 27 17:19:48 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Sun Jul 27 17:19:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Sun Jul 27 17:19:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Sun Jul 27 17:19:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:52 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:19:53 Saved as file ~undo.max
+Sun Jul 27 17:21:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Sun Jul 27 17:21:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Sun Jul 27 17:21:03 Loaded file G:\SOFT\SOFT STUDY\ORCAD\ORCAD 10.5 CCCCC\THUVIEN LAYOUT\TU TAO.LLB
+Sun Jul 27 17:21:11 Loaded file G:\SOFT\SOFT STUDY\ORCAD\ORCAD 10.5 CCCCC\THUVIEN LAYOUT\THU VIEN4.LLB
+Sun Jul 27 17:21:17 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Sun Jul 27 17:21:17 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Sun Jul 27 17:21:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:22 Footprint coords will be rounded to nearest base unit.
+Sun Jul 27 17:21:24 Saved as file ~undo.max
+Sun Jul 27 17:22:11 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Sun Jul 27 17:24:11 Saved as file ~undo.max
+Sun Jul 27 17:24:18 Saved as file ~undo.max
+Sun Jul 27 17:24:22 Saved as file ~undo.max
+Sun Jul 27 17:24:42 Saved as file ~undo.max
+Sun Jul 27 17:24:47 Saved as file ~undo.max
+Sun Jul 27 17:24:49 Saved as file ~undo.max
+Sun Jul 27 17:24:53 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Sun Jul 27 17:25:10 Saved as file ~undo.max
+Sun Jul 27 17:25:12 Saved as file ~undo.max
+Sun Jul 27 17:25:17 Saved as file ~undo.max
+Sun Jul 27 17:25:19 Saved as file ~undo.max
+Sun Jul 27 17:25:21 Saved as file ~undo.max
+Sun Jul 27 17:25:24 Saved as file ~undo.max
+Sun Jul 27 17:25:26 Saved as file ~undo.max
+Sun Jul 27 17:25:36 Saved as file ~undo.max
+Sun Jul 27 17:25:42 Saved as file ~undo.max
+Sun Jul 27 17:25:47 Saved as file ~undo.max
+Sun Jul 27 17:25:53 Saved as file ~undo.max
+Sun Jul 27 17:25:56 Saved as file ~undo.max
+Sun Jul 27 17:25:59 Saved as file ~undo.max
+Sun Jul 27 17:26:06 Saved as file ~undo.max
+Sun Jul 27 17:26:10 Saved as file ~undo.max
+Sun Jul 27 17:26:12 Saved as file ~undo.max
+Sun Jul 27 17:26:13 Saved as file ~undo.max
+Sun Jul 27 17:26:20 Saved as file ~undo.max
+Sun Jul 27 17:26:24 Saved as file ~undo.max
+Sun Jul 27 17:26:28 Saved as file ~undo.max
+Sun Jul 27 17:26:30 Saved as file ~undo.max
+Sun Jul 27 17:26:31 Saved as file ~undo.max
+Sun Jul 27 17:26:33 Saved as file ~undo.max
+Sun Jul 27 17:26:40 Saved as file ~undo.max
+Sun Jul 27 17:26:47 Saved as file ~undo.max
+Sun Jul 27 17:26:52 Saved as file ~undo.max
+Sun Jul 27 17:26:55 Saved as file ~undo.max
+Sun Jul 27 17:27:00 Saved as file ~undo.max
+Sun Jul 27 17:27:04 Saved as file ~undo.max
+Sun Jul 27 17:27:09 Saved as file ~undo.max
+Sun Jul 27 17:27:19 Saved as file ~undo.max
+Sun Jul 27 17:27:25 Saved as file ~undo.max
+Sun Jul 27 17:27:40 Saved as file ~undo.max
+Sun Jul 27 17:27:42 Saved as file ~undo.max
+Sun Jul 27 17:27:47 Saved as file ~undo.max
+Sun Jul 27 17:27:48 Saved as file ~undo.max
+Sun Jul 27 17:27:50 Saved as file ~undo.max
+Sun Jul 27 17:27:55 Saved as file ~undo.max
+Sun Jul 27 17:27:59 Saved as file ~undo.max
+Sun Jul 27 17:28:10 Saved as file ~undo.max
+Sun Jul 27 17:28:16 Saved as file ~undo.max
+Sun Jul 27 17:28:20 Saved as file ~undo.max
+Sun Jul 27 17:28:21 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Sun Jul 27 17:28:25 Saved as file ~undo.max
+Sun Jul 27 17:28:27 Saved as file ~undo.max
+Sun Jul 27 17:28:31 Saved as file ~undo.max
+Sun Jul 27 17:28:32 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Sun Jul 27 17:28:38 Saved as file ~undo.max
+Sun Jul 27 17:28:43 Saved as file ~undo.max
+Sun Jul 27 17:28:48 Saved as file ~undo.max
+Sun Jul 27 17:29:11 Saved as file ~undo.max
+Sun Jul 27 17:29:18 Saved as file ~undo.max
+Sun Jul 27 17:29:22 Saved as file ~undo.max
+Sun Jul 27 17:29:25 Saved as file ~undo.max
+Sun Jul 27 17:29:28 Saved as file ~undo.max
+Sun Jul 27 17:29:30 Saved as file ~undo.max
+Sun Jul 27 17:29:31 Saved as file BACKUP1.MAX
+Sun Jul 27 17:29:33 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Sun Jul 27 17:29:43 Saved as file ~undo.max
+Sun Jul 27 17:29:47 Saved as file ~undo.max
+Sun Jul 27 17:29:57 Saved as file ~undo.max
+Sun Jul 27 17:30:05 Saved as file ~undo.max
+Sun Jul 27 17:30:19 Saved as file ~undo.max
+Sun Jul 27 17:30:25 Saved as file ~undo.max
+Sun Jul 27 17:30:30 Saved as file ~undo.max
+Sun Jul 27 17:30:32 Saved as file ~undo.max
+Sun Jul 27 17:30:34 Saved as file ~undo.max
+Sun Jul 27 17:30:39 Saved as file ~undo.max
+Sun Jul 27 17:30:44 Saved as file ~undo.max
+Sun Jul 27 17:30:47 Saved as file ~undo.max
+Sun Jul 27 17:30:49 Saved as file ~undo.max
+Sun Jul 27 17:30:53 Saved as file ~undo.max
+Sun Jul 27 17:31:00 Saved as file ~undo.max
+Sun Jul 27 17:31:02 Saved as file ~undo.max
+Sun Jul 27 17:31:08 Saved as file ~undo.max
+Sun Jul 27 17:31:23 Saved as file ~undo.max
+Sun Jul 27 17:31:28 Saved as file ~undo.max
+Sun Jul 27 17:31:50 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Sun Jul 27 17:31:56 Saved as file ~undo.max
+Sun Jul 27 17:32:00 Saved as file ~undo.max
+Sun Jul 27 17:32:05 Saved as file ~undo.max
+Sun Jul 27 17:32:10 Saved as file ~undo.max
+Sun Jul 27 17:32:14 Saved as file ~undo.max
+Sun Jul 27 17:32:18 Saved as file ~undo.max
+Sun Jul 27 17:32:22 Saved as file ~undo.max
+Sun Jul 27 17:32:24 Saved as file ~undo.max
+Sun Jul 27 17:32:28 Saved as file ~undo.max
+Sun Jul 27 17:32:31 Saved as file ~undo.max
+Sun Jul 27 17:32:34 Saved as file ~undo.max
+Sun Jul 27 17:32:38 Saved as file ~undo.max
+Sun Jul 27 17:32:39 Saved as file ~undo.max
+Sun Jul 27 17:32:46 Saved as file ~undo.max
+Sun Jul 27 17:32:49 Saved as file ~undo.max
+Sun Jul 27 17:32:53 Saved as file ~undo.max
+Sun Jul 27 17:32:54 Saved as file ~undo.max
+Sun Jul 27 17:32:55 Saved as file ~undo.max
+Sun Jul 27 17:32:58 Saved as file ~undo.max
+Sun Jul 27 17:33:02 Saved as file ~undo.max
+Sun Jul 27 17:33:09 Saved as file ~undo.max
+Sun Jul 27 17:33:11 Saved as file ~undo.max
+Sun Jul 27 17:33:14 Saved as file ~undo.max
+Sun Jul 27 17:33:19 Saved as file ~undo.max
+Sun Jul 27 17:33:22 Saved as file ~undo.max
+Sun Jul 27 17:33:23 Saved as file ~undo2.max
+Sun Jul 27 17:33:23 Loaded file ~undo.max
+Sun Jul 27 17:33:24 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Sun Jul 27 17:33:25 Saved as file ~undo.max
+Sun Jul 27 17:33:26 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Sun Jul 27 17:33:40 Saved as file ~undo.max
+Sun Jul 27 17:33:48 Saved as file ~undo.max
+Sun Jul 27 17:33:53 Saved as file ~undo.max
+Sun Jul 27 17:34:01 Saved as file ~undo.max
+Sun Jul 27 21:11:00 Saved as file ~undo.max
+Sun Jul 27 21:11:05 Saved as file ~undo.max
+Sun Jul 27 21:11:07 Saved as file ~undo.max
+Sun Jul 27 21:11:21 Saved as file ~undo.max
+Sun Jul 27 21:12:23 Saved as file ~undo.max
+Sun Jul 27 21:12:31 Saved as file ~undo.max
+Sun Jul 27 21:21:13 Saved as file BACKUP1.MAX
+Sun Jul 27 21:29:49 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Sun Jul 27 21:31:13 Saved as file BACKUP1.MAX
+Sun Jul 27 21:34:49 Saved as file ~undo.max
+Sun Jul 27 21:34:52 Saved as file ~undo.max
+Sun Jul 27 21:34:55 Saved as file ~undo.max
+Sun Jul 27 21:34:58 Saved as file ~undo.max
+Sun Jul 27 21:35:01 Saved as file ~undo.max
+Sun Jul 27 21:35:05 Saved as file ~undo.max
+Sun Jul 27 21:35:08 Saved as file ~undo.max
+Sun Jul 27 21:35:16 Saved as file ~undo.max
+Sun Jul 27 21:41:13 Saved as file BACKUP1.MAX
+Sun Jul 27 21:51:44 Saved as file BACKUP1.MAX
+Sun Jul 27 21:58:35 Saved as file ~undo.max
+Sun Jul 27 21:58:38 Saved as file ~undo.max
+Sun Jul 27 21:58:40 Saved as file ~undo.max
+Sun Jul 27 21:59:07 Saved as file ~undo.max
+Sun Jul 27 22:01:42 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Sun Jul 27 22:03:14 Saved as file BACKUP1.MAX
+Sun Jul 27 22:09:26 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Sun Jul 27 22:12:24 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Sun Jul 27 22:12:25 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Sun Jul 27 22:16:06 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Sun Jul 27 22:17:17 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Mon Jul 28 09:02:15 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Mon Jul 28 09:03:01 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Mon Jul 28 09:03:47 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Mon Jul 28 09:04:46 Merge file: Starting (copy all comps)
+Mon Jul 28 09:04:46 Merge file: Loading merge file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Mon Jul 28 09:04:46 Merge file: Component C13 copied and renamed to C13000
+Mon Jul 28 09:04:47 Merge file: Component C14 copied and renamed to C14000
+Mon Jul 28 09:04:47 Merge file: Component C15 copied and renamed to C15000
+Mon Jul 28 09:04:47 Merge file: Component C16 copied and renamed to C16000
+Mon Jul 28 09:04:47 Merge file: Component C17 copied and renamed to C17000
+Mon Jul 28 09:04:47 Merge file: Component C18 copied and renamed to C18000
+Mon Jul 28 09:04:47 Merge file: Component C19 copied and renamed to C19000
+Mon Jul 28 09:04:47 Merge file: Component C20 copied and renamed to C20000
+Mon Jul 28 09:04:47 Merge file: Component C21 copied and renamed to C21000
+Mon Jul 28 09:04:47 Merge file: Component C22 copied and renamed to C22000
+Mon Jul 28 09:04:47 Merge file: Component D35 copied and renamed to D35000
+Mon Jul 28 09:04:47 Merge file: Component D36 copied and renamed to D36000
+Mon Jul 28 09:04:47 Merge file: Component D37 copied and renamed to D37000
+Mon Jul 28 09:04:47 Merge file: Component D38 copied and renamed to D38000
+Mon Jul 28 09:04:47 Merge file: Component D39 copied and renamed to D39000
+Mon Jul 28 09:04:47 Merge file: Component D40 copied and renamed to D40000
+Mon Jul 28 09:04:47 Merge file: Component D41 copied and renamed to D41000
+Mon Jul 28 09:04:47 Merge file: Component D42 copied and renamed to D42000
+Mon Jul 28 09:04:47 Merge file: Component D57 copied and renamed to D57000
+Mon Jul 28 09:04:47 Merge file: Component D58 copied and renamed to D58000
+Mon Jul 28 09:04:47 Merge file: Component D59 copied and renamed to D59000
+Mon Jul 28 09:04:47 Merge file: Component D60 copied and renamed to D60000
+Mon Jul 28 09:04:47 Merge file: Component D61 copied and renamed to D61000
+Mon Jul 28 09:04:47 Merge file: Component D62 copied and renamed to D62000
+Mon Jul 28 09:04:47 Merge file: Component D63 copied and renamed to D63000
+Mon Jul 28 09:04:47 Merge file: Component D64 copied and renamed to D64000
+Mon Jul 28 09:04:47 Merge file: Component J5 copied and renamed to J5000
+Mon Jul 28 09:04:47 Merge file: Component J6 copied and renamed to J6000
+Mon Jul 28 09:04:47 Merge file: Component J7 copied and renamed to J7000
+Mon Jul 28 09:04:47 Merge file: Component J8 copied and renamed to J8000
+Mon Jul 28 09:04:47 Merge file: Component J9 copied and renamed to J9000
+Mon Jul 28 09:04:47 Merge file: Component J10 copied and renamed to J10000
+Mon Jul 28 09:04:47 Merge file: Component J11 copied and renamed to J11000
+Mon Jul 28 09:04:47 Merge file: Component J12 copied and renamed to J12000
+Mon Jul 28 09:04:47 Merge file: Component J13 copied and renamed to J13000
+Mon Jul 28 09:04:47 Merge file: Component J14 copied and renamed to J14000
+Mon Jul 28 09:04:47 Merge file: Component M2DC8 copied and renamed to M2DC8000
+Mon Jul 28 09:04:47 Merge file: Component M2DC9 copied and renamed to M2DC9000
+Mon Jul 28 09:04:47 Merge file: Component M2DC10 copied and renamed to M2DC10000
+Mon Jul 28 09:04:47 Merge file: Component M2DC11 copied and renamed to M2DC11000
+Mon Jul 28 09:04:47 Merge file: Component M2DC12 copied and renamed to M2DC12000
+Mon Jul 28 09:04:47 Merge file: Component M2DC13 copied and renamed to M2DC13000
+Mon Jul 28 09:04:47 Merge file: Component M2DC14 copied and renamed to M2DC14000
+Mon Jul 28 09:04:47 Merge file: Component M2DC15 copied and renamed to M2DC15000
+Mon Jul 28 09:04:47 Merge file: Component PC817 copied and renamed to PC817000
+Mon Jul 28 09:04:47 Merge file: Component PC818 copied and renamed to PC818000
+Mon Jul 28 09:04:47 Merge file: Component PC819 copied and renamed to PC819000
+Mon Jul 28 09:04:47 Merge file: Component PC820 copied and renamed to PC820000
+Mon Jul 28 09:04:47 Merge file: Component PC821 copied and renamed to PC821000
+Mon Jul 28 09:04:47 Merge file: Component PC822 copied and renamed to PC822000
+Mon Jul 28 09:04:47 Merge file: Component PC823 copied and renamed to PC823000
+Mon Jul 28 09:04:47 Merge file: Component PC824 copied and renamed to PC824000
+Mon Jul 28 09:04:47 Merge file: Component R31 copied and renamed to R31000
+Mon Jul 28 09:04:47 Merge file: Component R32 copied and renamed to R32000
+Mon Jul 28 09:04:47 Merge file: Component R33 copied and renamed to R33000
+Mon Jul 28 09:04:47 Merge file: Component R34 copied and renamed to R34000
+Mon Jul 28 09:04:47 Merge file: Component R35 copied and renamed to R35000
+Mon Jul 28 09:04:47 Merge file: Component R36 copied and renamed to R36000
+Mon Jul 28 09:04:47 Merge file: Component R37 copied and renamed to R37000
+Mon Jul 28 09:04:47 Merge file: Component R38 copied and renamed to R38000
+Mon Jul 28 09:04:47 Merge file: Component R39 copied and renamed to R39000
+Mon Jul 28 09:04:47 Merge file: Component R40 copied and renamed to R40000
+Mon Jul 28 09:04:47 Merge file: Component R41 copied and renamed to R41000
+Mon Jul 28 09:04:47 Merge file: Component R42 copied and renamed to R42000
+Mon Jul 28 09:04:47 Merge file: Component R43 copied and renamed to R43000
+Mon Jul 28 09:04:47 Merge file: Component R44 copied and renamed to R44000
+Mon Jul 28 09:04:47 Merge file: Component R45 copied and renamed to R45000
+Mon Jul 28 09:04:47 Merge file: Component R46 copied and renamed to R46000
+Mon Jul 28 09:04:47 Merge file: Component R94 copied and renamed to R94000
+Mon Jul 28 09:04:47 Merge file: Component R95 copied and renamed to R95000
+Mon Jul 28 09:04:47 Merge file: Component R96 copied and renamed to R96000
+Mon Jul 28 09:04:47 Merge file: Component R97 copied and renamed to R97000
+Mon Jul 28 09:04:47 Merge file: Component R98 copied and renamed to R98000
+Mon Jul 28 09:04:47 Merge file: Component R99 copied and renamed to R99000
+Mon Jul 28 09:04:47 Merge file: Component R100 copied and renamed to R100000
+Mon Jul 28 09:04:47 Merge file: Component R101 copied and renamed to R101000
+Mon Jul 28 09:04:47 Merge file: Net 5V merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net 15V merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net 24V merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net DEN1 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net DEN2 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net DEN3 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net DEN4 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net DEN5 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net DEN6 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net DEN7 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net DEN8 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net GND merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10689335 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10689423 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10689463 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10689900 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10696560 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10696640 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10696728 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10696766 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10697422 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10697514 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10697594 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10697678 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10697712 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10697760 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10697848 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10697886 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10698955 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10699047 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10699127 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10699211 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10699245 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10699293 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10699381 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10699419 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10700313 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10700393 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10700477 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10700511 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10700555 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10700651 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10700719 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N10700769 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N106893771 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N106966661 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N106976201 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N106977861 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N106991531 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N106993191 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N107004191 merged into existing net
+Mon Jul 28 09:04:47 Merge file: Net N107006811 merged into existing net
+Mon Jul 28 09:04:47 Loaded file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Mon Jul 28 09:04:47 Merge file: Complete
+Mon Jul 28 09:07:46 Merge file: Starting (copy all comps)
+Mon Jul 28 09:07:46 Merge file: Loading merge file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Mon Jul 28 09:07:46 Merge file: Component C13 copied and renamed to C13000000
+Mon Jul 28 09:07:46 Merge file: Component C14 copied and renamed to C14000000
+Mon Jul 28 09:07:46 Merge file: Component C15 copied and renamed to C15000000
+Mon Jul 28 09:07:46 Merge file: Component C16 copied and renamed to C16000000
+Mon Jul 28 09:07:46 Merge file: Component C17 copied and renamed to C17000000
+Mon Jul 28 09:07:46 Merge file: Component C18 copied and renamed to C18000000
+Mon Jul 28 09:07:46 Merge file: Component C19 copied and renamed to C19000000
+Mon Jul 28 09:07:46 Merge file: Component C20 copied and renamed to C20000000
+Mon Jul 28 09:07:46 Merge file: Component C21 copied and renamed to C21000000
+Mon Jul 28 09:07:46 Merge file: Component C22 copied and renamed to C22000000
+Mon Jul 28 09:07:46 Merge file: Component D35 copied and renamed to D35000000
+Mon Jul 28 09:07:46 Merge file: Component D36 copied and renamed to D36000000
+Mon Jul 28 09:07:46 Merge file: Component D37 copied and renamed to D37000000
+Mon Jul 28 09:07:46 Merge file: Component D38 copied and renamed to D38000000
+Mon Jul 28 09:07:46 Merge file: Component D39 copied and renamed to D39000000
+Mon Jul 28 09:07:46 Merge file: Component D40 copied and renamed to D40000000
+Mon Jul 28 09:07:46 Merge file: Component D41 copied and renamed to D41000000
+Mon Jul 28 09:07:46 Merge file: Component D42 copied and renamed to D42000000
+Mon Jul 28 09:07:46 Merge file: Component D57 copied and renamed to D57000000
+Mon Jul 28 09:07:46 Merge file: Component D58 copied and renamed to D58000000
+Mon Jul 28 09:07:46 Merge file: Component D59 copied and renamed to D59000000
+Mon Jul 28 09:07:46 Merge file: Component D60 copied and renamed to D60000000
+Mon Jul 28 09:07:46 Merge file: Component D61 copied and renamed to D61000000
+Mon Jul 28 09:07:46 Merge file: Component D62 copied and renamed to D62000000
+Mon Jul 28 09:07:46 Merge file: Component D63 copied and renamed to D63000000
+Mon Jul 28 09:07:46 Merge file: Component D64 copied and renamed to D64000000
+Mon Jul 28 09:07:46 Merge file: Component J5 copied and renamed to J5000000
+Mon Jul 28 09:07:46 Merge file: Component J6 copied and renamed to J6000000
+Mon Jul 28 09:07:46 Merge file: Component J7 copied and renamed to J7000000
+Mon Jul 28 09:07:46 Merge file: Component J8 copied and renamed to J8000000
+Mon Jul 28 09:07:46 Merge file: Component J9 copied and renamed to J9000000
+Mon Jul 28 09:07:46 Merge file: Component J10 copied and renamed to J10000000
+Mon Jul 28 09:07:47 Merge file: Component J11 copied and renamed to J11000000
+Mon Jul 28 09:07:47 Merge file: Component J12 copied and renamed to J12000000
+Mon Jul 28 09:07:47 Merge file: Component J13 copied and renamed to J13000000
+Mon Jul 28 09:07:47 Merge file: Component J14 copied and renamed to J14000000
+Mon Jul 28 09:07:47 Merge file: Component M2DC8 copied and renamed to M2DC8000000
+Mon Jul 28 09:07:47 Merge file: Component M2DC9 copied and renamed to M2DC9000000
+Mon Jul 28 09:07:47 Merge file: Component M2DC10 copied and renamed to M2DC10000000
+Mon Jul 28 09:07:47 Merge file: Component M2DC11 copied and renamed to M2DC11000000
+Mon Jul 28 09:07:47 Merge file: Component M2DC12 copied and renamed to M2DC12000000
+Mon Jul 28 09:07:47 Merge file: Component M2DC13 copied and renamed to M2DC13000000
+Mon Jul 28 09:07:47 Merge file: Component M2DC14 copied and renamed to M2DC14000000
+Mon Jul 28 09:07:47 Merge file: Component M2DC15 copied and renamed to M2DC15000000
+Mon Jul 28 09:07:47 Merge file: Component PC817 copied and renamed to PC817000000
+Mon Jul 28 09:07:47 Merge file: Component PC818 copied and renamed to PC818000000
+Mon Jul 28 09:07:47 Merge file: Component PC819 copied and renamed to PC819000000
+Mon Jul 28 09:07:47 Merge file: Component PC820 copied and renamed to PC820000000
+Mon Jul 28 09:07:47 Merge file: Component PC821 copied and renamed to PC821000000
+Mon Jul 28 09:07:47 Merge file: Component PC822 copied and renamed to PC822000000
+Mon Jul 28 09:07:47 Merge file: Component PC823 copied and renamed to PC823000000
+Mon Jul 28 09:07:47 Merge file: Component PC824 copied and renamed to PC824000000
+Mon Jul 28 09:07:47 Merge file: Component R31 copied and renamed to R31000000
+Mon Jul 28 09:07:47 Merge file: Component R32 copied and renamed to R32000000
+Mon Jul 28 09:07:47 Merge file: Component R33 copied and renamed to R33000000
+Mon Jul 28 09:07:47 Merge file: Component R34 copied and renamed to R34000000
+Mon Jul 28 09:07:47 Merge file: Component R35 copied and renamed to R35000000
+Mon Jul 28 09:07:47 Merge file: Component R36 copied and renamed to R36000000
+Mon Jul 28 09:07:47 Merge file: Component R37 copied and renamed to R37000000
+Mon Jul 28 09:07:47 Merge file: Component R38 copied and renamed to R38000000
+Mon Jul 28 09:07:47 Merge file: Component R39 copied and renamed to R39000000
+Mon Jul 28 09:07:47 Merge file: Component R40 copied and renamed to R40000000
+Mon Jul 28 09:07:47 Merge file: Component R41 copied and renamed to R41000000
+Mon Jul 28 09:07:47 Merge file: Component R42 copied and renamed to R42000000
+Mon Jul 28 09:07:47 Merge file: Component R43 copied and renamed to R43000000
+Mon Jul 28 09:07:47 Merge file: Component R44 copied and renamed to R44000000
+Mon Jul 28 09:07:47 Merge file: Component R45 copied and renamed to R45000000
+Mon Jul 28 09:07:47 Merge file: Component R46 copied and renamed to R46000000
+Mon Jul 28 09:07:47 Merge file: Component R94 copied and renamed to R94000000
+Mon Jul 28 09:07:47 Merge file: Component R95 copied and renamed to R95000000
+Mon Jul 28 09:07:47 Merge file: Component R96 copied and renamed to R96000000
+Mon Jul 28 09:07:47 Merge file: Component R97 copied and renamed to R97000000
+Mon Jul 28 09:07:47 Merge file: Component R98 copied and renamed to R98000000
+Mon Jul 28 09:07:47 Merge file: Component R99 copied and renamed to R99000000
+Mon Jul 28 09:07:47 Merge file: Component R100 copied and renamed to R100000000
+Mon Jul 28 09:07:47 Merge file: Component R101 copied and renamed to R101000000
+Mon Jul 28 09:07:47 Merge file: Net 5V merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net 15V merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net 24V merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net DEN1 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net DEN2 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net DEN3 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net DEN4 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net DEN5 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net DEN6 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net DEN7 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net DEN8 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net GND merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10689335 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10689423 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10689463 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10689900 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10696560 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10696640 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10696728 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10696766 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10697422 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10697514 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10697594 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10697678 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10697712 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10697760 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10697848 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10697886 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10698955 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10699047 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10699127 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10699211 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10699245 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10699293 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10699381 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10699419 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10700313 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10700393 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10700477 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10700511 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10700555 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10700651 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10700719 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N10700769 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N106893771 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N106966661 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N106976201 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N106977861 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N106991531 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N106993191 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N107004191 merged into existing net
+Mon Jul 28 09:07:47 Merge file: Net N107006811 merged into existing net
+Mon Jul 28 09:07:47 Loaded file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Mon Jul 28 09:07:47 Merge file: Complete
+Mon Jul 28 09:08:25 Merge file: Starting (copy all comps)
+Mon Jul 28 09:08:25 Merge file: Loading merge file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Mon Jul 28 09:08:25 Merge file: Component C13 copied and renamed to C13000000000
+Mon Jul 28 09:08:25 Merge file: Component C14 copied and renamed to C14000000000
+Mon Jul 28 09:08:25 Merge file: Component C15 copied and renamed to C15000000000
+Mon Jul 28 09:08:25 Merge file: Component C16 copied and renamed to C16000000000
+Mon Jul 28 09:08:25 Merge file: Component C17 copied and renamed to C17000000000
+Mon Jul 28 09:08:25 Merge file: Component C18 copied and renamed to C18000000000
+Mon Jul 28 09:08:25 Merge file: Component C19 copied and renamed to C19000000000
+Mon Jul 28 09:08:25 Merge file: Component C20 copied and renamed to C20000000000
+Mon Jul 28 09:08:25 Merge file: Component C21 copied and renamed to C21000000000
+Mon Jul 28 09:08:25 Merge file: Component C22 copied and renamed to C22000000000
+Mon Jul 28 09:08:25 Merge file: Component D35 copied and renamed to D35000000000
+Mon Jul 28 09:08:25 Merge file: Component D36 copied and renamed to D36000000000
+Mon Jul 28 09:08:25 Merge file: Component D37 copied and renamed to D37000000000
+Mon Jul 28 09:08:25 Merge file: Component D38 copied and renamed to D38000000000
+Mon Jul 28 09:08:25 Merge file: Component D39 copied and renamed to D39000000000
+Mon Jul 28 09:08:25 Merge file: Component D40 copied and renamed to D40000000000
+Mon Jul 28 09:08:25 Merge file: Component D41 copied and renamed to D41000000000
+Mon Jul 28 09:08:25 Merge file: Component D42 copied and renamed to D42000000000
+Mon Jul 28 09:08:25 Merge file: Component D57 copied and renamed to D57000000000
+Mon Jul 28 09:08:25 Merge file: Component D58 copied and renamed to D58000000000
+Mon Jul 28 09:08:25 Merge file: Component D59 copied and renamed to D59000000000
+Mon Jul 28 09:08:25 Merge file: Component D60 copied and renamed to D60000000000
+Mon Jul 28 09:08:25 Merge file: Component D61 copied and renamed to D61000000000
+Mon Jul 28 09:08:25 Merge file: Component D62 copied and renamed to D62000000000
+Mon Jul 28 09:08:25 Merge file: Component D63 copied and renamed to D63000000000
+Mon Jul 28 09:08:25 Merge file: Component D64 copied and renamed to D64000000000
+Mon Jul 28 09:08:25 Merge file: Component J5 copied and renamed to J5000000000
+Mon Jul 28 09:08:25 Merge file: Component J6 copied and renamed to J6000000000
+Mon Jul 28 09:08:25 Merge file: Component J7 copied and renamed to J7000000000
+Mon Jul 28 09:08:25 Merge file: Component J8 copied and renamed to J8000000000
+Mon Jul 28 09:08:25 Merge file: Component J9 copied and renamed to J9000000000
+Mon Jul 28 09:08:25 Merge file: Component J10 copied and renamed to J10000000000
+Mon Jul 28 09:08:25 Merge file: Component J11 copied and renamed to J11000000000
+Mon Jul 28 09:08:25 Merge file: Component J12 copied and renamed to J12000000000
+Mon Jul 28 09:08:25 Merge file: Component J13 copied and renamed to J13000000000
+Mon Jul 28 09:08:25 Merge file: Component J14 copied and renamed to J14000000000
+Mon Jul 28 09:08:25 Merge file: Component M2DC8 copied and renamed to M2DC8000000000
+Mon Jul 28 09:08:25 Merge file: Component M2DC9 copied and renamed to M2DC9000000000
+Mon Jul 28 09:08:25 Merge file: Component M2DC10 copied and renamed to M2DC10000000000
+Mon Jul 28 09:08:25 Merge file: Component M2DC11 copied and renamed to M2DC11000000000
+Mon Jul 28 09:08:25 Merge file: Component M2DC12 copied and renamed to M2DC12000000000
+Mon Jul 28 09:08:25 Merge file: Component M2DC13 copied and renamed to M2DC13000000000
+Mon Jul 28 09:08:25 Merge file: Component M2DC14 copied and renamed to M2DC14000000000
+Mon Jul 28 09:08:25 Merge file: Component M2DC15 copied and renamed to M2DC15000000000
+Mon Jul 28 09:08:25 Merge file: Component PC817 copied and renamed to PC817000000000
+Mon Jul 28 09:08:25 Merge file: Component PC818 copied and renamed to PC818000000000
+Mon Jul 28 09:08:25 Merge file: Component PC819 copied and renamed to PC819000000000
+Mon Jul 28 09:08:25 Merge file: Component PC820 copied and renamed to PC820000000000
+Mon Jul 28 09:08:25 Merge file: Component PC821 copied and renamed to PC821000000000
+Mon Jul 28 09:08:25 Merge file: Component PC822 copied and renamed to PC822000000000
+Mon Jul 28 09:08:25 Merge file: Component PC823 copied and renamed to PC823000000000
+Mon Jul 28 09:08:25 Merge file: Component PC824 copied and renamed to PC824000000000
+Mon Jul 28 09:08:25 Merge file: Component R31 copied and renamed to R31000000000
+Mon Jul 28 09:08:25 Merge file: Component R32 copied and renamed to R32000000000
+Mon Jul 28 09:08:25 Merge file: Component R33 copied and renamed to R33000000000
+Mon Jul 28 09:08:25 Merge file: Component R34 copied and renamed to R34000000000
+Mon Jul 28 09:08:25 Merge file: Component R35 copied and renamed to R35000000000
+Mon Jul 28 09:08:25 Merge file: Component R36 copied and renamed to R36000000000
+Mon Jul 28 09:08:25 Merge file: Component R37 copied and renamed to R37000000000
+Mon Jul 28 09:08:25 Merge file: Component R38 copied and renamed to R38000000000
+Mon Jul 28 09:08:25 Merge file: Component R39 copied and renamed to R39000000000
+Mon Jul 28 09:08:25 Merge file: Component R40 copied and renamed to R40000000000
+Mon Jul 28 09:08:25 Merge file: Component R41 copied and renamed to R41000000000
+Mon Jul 28 09:08:25 Merge file: Component R42 copied and renamed to R42000000000
+Mon Jul 28 09:08:25 Merge file: Component R43 copied and renamed to R43000000000
+Mon Jul 28 09:08:25 Merge file: Component R44 copied and renamed to R44000000000
+Mon Jul 28 09:08:25 Merge file: Component R45 copied and renamed to R45000000000
+Mon Jul 28 09:08:25 Merge file: Component R46 copied and renamed to R46000000000
+Mon Jul 28 09:08:25 Merge file: Component R94 copied and renamed to R94000000000
+Mon Jul 28 09:08:25 Merge file: Component R95 copied and renamed to R95000000000
+Mon Jul 28 09:08:25 Merge file: Component R96 copied and renamed to R96000000000
+Mon Jul 28 09:08:25 Merge file: Component R97 copied and renamed to R97000000000
+Mon Jul 28 09:08:25 Merge file: Component R98 copied and renamed to R98000000000
+Mon Jul 28 09:08:25 Merge file: Component R99 copied and renamed to R99000000000
+Mon Jul 28 09:08:25 Merge file: Component R100 copied and renamed to R100000000000
+Mon Jul 28 09:08:25 Merge file: Component R101 copied and renamed to R101000000000
+Mon Jul 28 09:08:25 Merge file: Net 5V merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net 15V merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net 24V merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net DEN1 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net DEN2 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net DEN3 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net DEN4 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net DEN5 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net DEN6 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net DEN7 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net DEN8 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net GND merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10689335 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10689423 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10689463 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10689900 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10696560 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10696640 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10696728 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10696766 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10697422 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10697514 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10697594 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10697678 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10697712 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10697760 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10697848 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10697886 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10698955 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10699047 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10699127 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10699211 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10699245 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10699293 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10699381 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10699419 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10700313 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10700393 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10700477 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10700511 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10700555 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10700651 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10700719 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N10700769 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N106893771 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N106966661 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N106976201 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N106977861 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N106991531 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N106993191 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N107004191 merged into existing net
+Mon Jul 28 09:08:25 Merge file: Net N107006811 merged into existing net
+Mon Jul 28 09:08:25 Loaded file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1.MAX
+Mon Jul 28 09:08:25 Merge file: Complete
+Mon Jul 28 09:09:55 Saved as file G:\MAY AP TRUNG\MACH AP T\MACH DONG LUC\FET-OPTO-1 - COPY.MAX

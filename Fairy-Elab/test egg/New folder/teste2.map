@@ -1,0 +1,35 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+doamh                                                             0x050B       4
+doaml                                                             0x050F       4
+nhietdoh                                                          0x0513       4
+nhietdol                                                          0x0517       4
+nhietdo                                                           0x051B       4
+doam                                                              0x051F       4
+display_buffer                                                    0x0523      80
+_base_y                                                           0x0573       4
+_lcd_y                                                            0x0577       1
+_lcd_maxx                                                         0x0578       1
+_seed                                                             0x0579       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+hong1                                                             0x0000       1
+hong2                                                             0x0001       1
+hong3                                                             0x0002       1
+hong4                                                             0x0003       1
+solandtr                                                          0x0004       2
+dempdtr                                                           0x0006       1
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+demcb                                                             R4,R5        2
+demwdog                                                           R6,R7        2
+demquat                                                           R8,R9        2
+demdtr                                                            R10,R11      2
+kichquat                                                          R2.0      1bit
+select                                                            R13          1
+_lcd_x                                                            R12          1

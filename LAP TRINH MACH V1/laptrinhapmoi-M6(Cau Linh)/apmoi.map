@@ -1,0 +1,30 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+i                                                                 0x0160       4
+doamh                                                             0x0164       4
+doaml                                                             0x0168       4
+nhietdoh                                                          0x016C       4
+nhietdol                                                          0x0170       4
+a                                                                 0x0174       4
+nhietdo                                                           0x0178       4
+doam                                                              0x017C       4
+time1day                                                          0x0180       4
+_base_y                                                           0x0184       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+nhietdodat                                                        0x0010       2
+doamdat                                                           0x0015       2
+timeoff                                                           0x001A       2
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+demdaotrung                                                       R4,R5        2
+sldao                                                             R6,R7        2
+error                                                             R2.0      1bit
+_lcd_x                                                            R9           1
+_lcd_y                                                            R8           1
+_lcd_maxx                                                         R11          1

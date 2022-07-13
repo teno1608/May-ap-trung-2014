@@ -1,0 +1,53 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout 'machaptrung14-10nga.pdsprj'.
+CADCAM generated at 00:26:00 on 03 June 2020.
+
+File List
+---------
+Bottom Copper           : machaptrung14-10nga - CADCAM Bottom Copper.GBR
+Netlist                 : machaptrung14-10nga - CADCAM Netlist.IPC
+
+Photoplotter Setup
+------------------
+Format: RS274X, ASCII, 4.3, metric, absolute, eob=*, LZO
+Notes:  D=Diameter, S=Side, W=Width, H=Height, C=Chamfer, I=Index
+
+D10	CIRCLE  D=0.635mm                                                         DRAW 
+D11	CIRCLE  D=3.048mm                                                         DRAW 
+D12	CIRCLE  D=2.54mm                                                          DRAW 
+D13	CIRCLE  D=1.016mm                                                         DRAW 
+D14	CIRCLE  D=0.762mm                                                         DRAW 
+D15	CIRCLE  D=1.778mm                                                         DRAW 
+D16	CIRCLE  D=1.27mm                                                          DRAW 
+D17	CIRCLE  D=1.524mm                                                         DRAW 
+D18	CIRCLE  D=1.524mm                                                         FLASH
+D19	CIRCLE  D=0.508mm                                                         DRAW 
+D70	SQUARE  S=1.524mm                                                         FLASH
+D71	CIRCLE  D=2.54mm                                                          FLASH
+D20	CIRCLE  D=3.048mm                                                         FLASH
+D21	SQUARE  S=1.905mm                                                         FLASH
+D22	CIRCLE  D=2.032mm                                                         FLASH
+D23	CIRCLE  D=1.778mm                                                         FLASH
+D24	CIRCLE  D=1.397mm                                                         FLASH
+D25	CIRCLE  D=7.62mm                                                          FLASH
+D26	CIRCLE  D=0.2032mm                                                        DRAW 
+D27	CIRCLE  D=0.4572mm                                                        DRAW 
+
+NC Drill Setup
+--------------
+Format: Excellon, ASCII, 4.3, metric, absolute, eob=<CR><LF>, no zero suppression.
+Notes:  Tool sizes are diameters. Layer sets are in brackets - 0=TOP, 15=BOTTOM, 1-14=INNER.
+
+
+Layer Stackup
+-------------
+Core                     : 1.48336mm  FR4
+Bottom Copper            : 0.03556mm  Copper
+Bottom Solder Resist     : 0.01016mm  Resist
+
+
+[END OF FILE]

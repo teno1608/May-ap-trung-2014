@@ -1,0 +1,376 @@
+Fri Apr 17 18:21:45 Merge file: Starting (copy all comps)
+Fri Apr 17 18:21:45 Merge file: Loading merge file D:\MAY AP TRUNG\MACH AP T\NHAN LEN A4\MACH AP TRUNG AM2301-2.MAX
+Fri Apr 17 18:21:45 Merge file: Component C1 copied and renamed to C1000
+Fri Apr 17 18:21:45 Merge file: Component C2 copied and renamed to C2000
+Fri Apr 17 18:21:45 Merge file: Component C4 copied and renamed to C4000
+Fri Apr 17 18:21:45 Merge file: Component C5 copied and renamed to C5000
+Fri Apr 17 18:21:45 Merge file: Component C6 copied and renamed to C6000
+Fri Apr 17 18:21:45 Merge file: Component C7 copied and renamed to C7000
+Fri Apr 17 18:21:45 Merge file: Component C10 copied and renamed to C10000
+Fri Apr 17 18:21:45 Merge file: Component D1 copied and renamed to D1000
+Fri Apr 17 18:21:45 Merge file: Component D2 copied and renamed to D2000
+Fri Apr 17 18:21:45 Merge file: Component D4 copied and renamed to D4000
+Fri Apr 17 18:21:45 Merge file: Component D5 copied and renamed to D5000
+Fri Apr 17 18:21:45 Merge file: Component D6 copied and renamed to D6000
+Fri Apr 17 18:21:45 Merge file: Component D7 copied and renamed to D7000
+Fri Apr 17 18:21:45 Merge file: Component D10 copied and renamed to D10000
+Fri Apr 17 18:21:45 Merge file: Component D52 copied and renamed to D52000
+Fri Apr 17 18:21:45 Merge file: Component D53 copied and renamed to D53000
+Fri Apr 17 18:21:45 Merge file: Component IC1 copied and renamed to IC1000
+Fri Apr 17 18:21:45 Merge file: Component J3 copied and renamed to J3000
+Fri Apr 17 18:21:45 Merge file: Component J4 copied and renamed to J4000
+Fri Apr 17 18:21:45 Merge file: Component J6 copied and renamed to J6000
+Fri Apr 17 18:21:45 Merge file: Component J7 copied and renamed to J7000
+Fri Apr 17 18:21:45 Merge file: Component J12 copied and renamed to J12000
+Fri Apr 17 18:21:45 Merge file: Component J13 copied and renamed to J13000
+Fri Apr 17 18:21:45 Merge file: Component J14 copied and renamed to J14000
+Fri Apr 17 18:21:45 Merge file: Component J17 copied and renamed to J17000
+Fri Apr 17 18:21:45 Merge file: Component J18 copied and renamed to J18000
+Fri Apr 17 18:21:45 Merge file: Component J19 copied and renamed to J19000
+Fri Apr 17 18:21:45 Merge file: Component J20 copied and renamed to J20000
+Fri Apr 17 18:21:45 Merge file: Component L4 copied and renamed to L4000
+Fri Apr 17 18:21:45 Merge file: Component PC818 copied and renamed to PC818000
+Fri Apr 17 18:21:45 Merge file: Component PC819 copied and renamed to PC819000
+Fri Apr 17 18:21:45 Merge file: Component PC820 copied and renamed to PC820000
+Fri Apr 17 18:21:45 Merge file: Component PC826 copied and renamed to PC826000
+Fri Apr 17 18:21:45 Merge file: Component R1 copied and renamed to R1000
+Fri Apr 17 18:21:45 Merge file: Component R9 copied and renamed to R9000
+Fri Apr 17 18:21:45 Merge file: Component R19 copied and renamed to R19000
+Fri Apr 17 18:21:45 Merge file: Component R95 copied and renamed to R95000
+Fri Apr 17 18:21:45 Merge file: Component R97 copied and renamed to R97000
+Fri Apr 17 18:21:45 Merge file: Component R98 copied and renamed to R98000
+Fri Apr 17 18:21:45 Merge file: Component R99 copied and renamed to R99000
+Fri Apr 17 18:21:45 Merge file: Component R100 copied and renamed to R100000
+Fri Apr 17 18:21:45 Merge file: Component R101 copied and renamed to R101000
+Fri Apr 17 18:21:45 Merge file: Component R102 copied and renamed to R102000
+Fri Apr 17 18:21:45 Merge file: Component R112 copied and renamed to R112000
+Fri Apr 17 18:21:45 Merge file: Component SW1 copied and renamed to SW1000
+Fri Apr 17 18:21:45 Merge file: Component SW10 copied and renamed to SW10000
+Fri Apr 17 18:21:45 Merge file: Component SW11 copied and renamed to SW11000
+Fri Apr 17 18:21:45 Merge file: Component SW12 copied and renamed to SW12000
+Fri Apr 17 18:21:45 Merge file: Component SW13 copied and renamed to SW13000
+Fri Apr 17 18:21:45 Merge file: Component U2 copied and renamed to U2000
+Fri Apr 17 18:21:45 Merge file: Component U3 copied and renamed to U3000
+Fri Apr 17 18:21:45 Merge file: Component Y1 copied and renamed to Y1000
+Fri Apr 17 18:21:45 Merge file: Component ~FV1 copied and renamed to ~FV1000
+Fri Apr 17 18:21:45 Merge file: Component ~FV2 copied and renamed to ~FV2000
+Fri Apr 17 18:21:45 Merge file: Component ~FV3 copied and renamed to ~FV3000
+Fri Apr 17 18:21:45 Merge file: Component ~FV4 copied and renamed to ~FV4000
+Fri Apr 17 18:21:45 Merge file: Component ~FV5 copied and renamed to ~FV5000
+Fri Apr 17 18:21:45 Merge file: Component ~FV6 copied and renamed to ~FV6000
+Fri Apr 17 18:21:45 Merge file: Component ~FV7 copied and renamed to ~FV7000
+Fri Apr 17 18:21:45 Merge file: Component ~FV8 copied and renamed to ~FV8000
+Fri Apr 17 18:21:45 Merge file: Net 16 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net 17 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net 18 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net 19 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net 24V merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net GND merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net GND_EARTH merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net LCD4 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net LCD5 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net LCD6 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net LCD7 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10369860 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10369864 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10370082 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10371387 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10371553 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10371561 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10371581 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10655772 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10655776 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10655804 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10655824 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10656760 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10656764 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10656822 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10656868 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10656892 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10656958 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10657018 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10657108 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10657144 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10657156 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10657176 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10669683 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10669691 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10671838 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10677901 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10678538 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10679423 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10707256 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N10711628 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net N103713271 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net PB0 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net PB1 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net PC0 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net PC1 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net ROLE1 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net ROLE2 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net ROLE3 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net ROLE4 merged into existing net
+Fri Apr 17 18:21:45 Merge file: Net VCC merged into existing net
+Fri Apr 17 18:21:45 Loaded file D:\MAY AP TRUNG\MACH AP T\NHAN LEN A4\MACH AP TRUNG AM2301-2.MAX
+Fri Apr 17 18:21:45 Merge file: Complete
+Fri Apr 17 18:22:42 Merge file: Starting (copy all comps)
+Fri Apr 17 18:22:42 Merge file: Loading merge file D:\MAY AP TRUNG\MACH AP T\NHAN LEN A4\MACH AP TRUNG AM2301-2.MAX
+Fri Apr 17 18:22:42 Merge file: Component C1 copied and renamed to C1000000
+Fri Apr 17 18:22:42 Merge file: Component C2 copied and renamed to C2000000
+Fri Apr 17 18:22:42 Merge file: Component C4 copied and renamed to C4000000
+Fri Apr 17 18:22:42 Merge file: Component C5 copied and renamed to C5000000
+Fri Apr 17 18:22:42 Merge file: Component C6 copied and renamed to C6000000
+Fri Apr 17 18:22:42 Merge file: Component C7 copied and renamed to C7000000
+Fri Apr 17 18:22:42 Merge file: Component C10 copied and renamed to C10000000
+Fri Apr 17 18:22:42 Merge file: Component D1 copied and renamed to D1000000
+Fri Apr 17 18:22:42 Merge file: Component D2 copied and renamed to D2000000
+Fri Apr 17 18:22:42 Merge file: Component D4 copied and renamed to D4000000
+Fri Apr 17 18:22:42 Merge file: Component D5 copied and renamed to D5000000
+Fri Apr 17 18:22:42 Merge file: Component D6 copied and renamed to D6000000
+Fri Apr 17 18:22:42 Merge file: Component D7 copied and renamed to D7000000
+Fri Apr 17 18:22:42 Merge file: Component D10 copied and renamed to D10000000
+Fri Apr 17 18:22:42 Merge file: Component D52 copied and renamed to D52000000
+Fri Apr 17 18:22:42 Merge file: Component D53 copied and renamed to D53000000
+Fri Apr 17 18:22:42 Merge file: Component IC1 copied and renamed to IC1000000
+Fri Apr 17 18:22:42 Merge file: Component J3 copied and renamed to J3000000
+Fri Apr 17 18:22:42 Merge file: Component J4 copied and renamed to J4000000
+Fri Apr 17 18:22:42 Merge file: Component J6 copied and renamed to J6000000
+Fri Apr 17 18:22:42 Merge file: Component J7 copied and renamed to J7000000
+Fri Apr 17 18:22:42 Merge file: Component J12 copied and renamed to J12000000
+Fri Apr 17 18:22:42 Merge file: Component J13 copied and renamed to J13000000
+Fri Apr 17 18:22:42 Merge file: Component J14 copied and renamed to J14000000
+Fri Apr 17 18:22:42 Merge file: Component J17 copied and renamed to J17000000
+Fri Apr 17 18:22:42 Merge file: Component J18 copied and renamed to J18000000
+Fri Apr 17 18:22:42 Merge file: Component J19 copied and renamed to J19000000
+Fri Apr 17 18:22:42 Merge file: Component J20 copied and renamed to J20000000
+Fri Apr 17 18:22:42 Merge file: Component L4 copied and renamed to L4000000
+Fri Apr 17 18:22:42 Merge file: Component PC818 copied and renamed to PC818000000
+Fri Apr 17 18:22:42 Merge file: Component PC819 copied and renamed to PC819000000
+Fri Apr 17 18:22:42 Merge file: Component PC820 copied and renamed to PC820000000
+Fri Apr 17 18:22:42 Merge file: Component PC826 copied and renamed to PC826000000
+Fri Apr 17 18:22:42 Merge file: Component R1 copied and renamed to R1000000
+Fri Apr 17 18:22:42 Merge file: Component R9 copied and renamed to R9000000
+Fri Apr 17 18:22:42 Merge file: Component R19 copied and renamed to R19000000
+Fri Apr 17 18:22:42 Merge file: Component R95 copied and renamed to R95000000
+Fri Apr 17 18:22:42 Merge file: Component R97 copied and renamed to R97000000
+Fri Apr 17 18:22:42 Merge file: Component R98 copied and renamed to R98000000
+Fri Apr 17 18:22:42 Merge file: Component R99 copied and renamed to R99000000
+Fri Apr 17 18:22:42 Merge file: Component R100 copied and renamed to R100000000
+Fri Apr 17 18:22:42 Merge file: Component R101 copied and renamed to R101000000
+Fri Apr 17 18:22:42 Merge file: Component R102 copied and renamed to R102000000
+Fri Apr 17 18:22:42 Merge file: Component R112 copied and renamed to R112000000
+Fri Apr 17 18:22:42 Merge file: Component SW1 copied and renamed to SW1000000
+Fri Apr 17 18:22:42 Merge file: Component SW10 copied and renamed to SW10000000
+Fri Apr 17 18:22:42 Merge file: Component SW11 copied and renamed to SW11000000
+Fri Apr 17 18:22:42 Merge file: Component SW12 copied and renamed to SW12000000
+Fri Apr 17 18:22:42 Merge file: Component SW13 copied and renamed to SW13000000
+Fri Apr 17 18:22:42 Merge file: Component U2 copied and renamed to U2000000
+Fri Apr 17 18:22:42 Merge file: Component U3 copied and renamed to U3000000
+Fri Apr 17 18:22:42 Merge file: Component Y1 copied and renamed to Y1000000
+Fri Apr 17 18:22:42 Merge file: Component ~FV1 copied and renamed to ~FV1000000
+Fri Apr 17 18:22:42 Merge file: Component ~FV2 copied and renamed to ~FV2000000
+Fri Apr 17 18:22:42 Merge file: Component ~FV3 copied and renamed to ~FV3000000
+Fri Apr 17 18:22:42 Merge file: Component ~FV4 copied and renamed to ~FV4000000
+Fri Apr 17 18:22:42 Merge file: Component ~FV5 copied and renamed to ~FV5000000
+Fri Apr 17 18:22:42 Merge file: Component ~FV6 copied and renamed to ~FV6000000
+Fri Apr 17 18:22:42 Merge file: Component ~FV7 copied and renamed to ~FV7000000
+Fri Apr 17 18:22:42 Merge file: Component ~FV8 copied and renamed to ~FV8000000
+Fri Apr 17 18:22:42 Merge file: Net 16 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net 17 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net 18 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net 19 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net 24V merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net GND merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net GND_EARTH merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net LCD4 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net LCD5 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net LCD6 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net LCD7 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10369860 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10369864 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10370082 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10371387 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10371553 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10371561 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10371581 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10655772 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10655776 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10655804 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10655824 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10656760 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10656764 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10656822 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10656868 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10656892 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10656958 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10657018 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10657108 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10657144 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10657156 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10657176 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10669683 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10669691 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10671838 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10677901 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10678538 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10679423 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10707256 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N10711628 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net N103713271 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net PB0 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net PB1 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net PC0 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net PC1 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net ROLE1 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net ROLE2 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net ROLE3 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net ROLE4 merged into existing net
+Fri Apr 17 18:22:42 Merge file: Net VCC merged into existing net
+Fri Apr 17 18:22:42 Loaded file D:\MAY AP TRUNG\MACH AP T\NHAN LEN A4\MACH AP TRUNG AM2301-2.MAX
+Fri Apr 17 18:22:42 Merge file: Complete
+Fri Apr 17 18:23:03 Merge file: Starting (copy all comps)
+Fri Apr 17 18:23:03 Merge file: Loading merge file D:\MAY AP TRUNG\MACH AP T\NHAN LEN A4\MACH AP TRUNG AM2301-2.MAX
+Fri Apr 17 18:23:03 Merge file: Component C1 copied and renamed to C1000000000
+Fri Apr 17 18:23:03 Merge file: Component C2 copied and renamed to C2000000000
+Fri Apr 17 18:23:03 Merge file: Component C4 copied and renamed to C4000000000
+Fri Apr 17 18:23:03 Merge file: Component C5 copied and renamed to C5000000000
+Fri Apr 17 18:23:03 Merge file: Component C6 copied and renamed to C6000000000
+Fri Apr 17 18:23:03 Merge file: Component C7 copied and renamed to C7000000000
+Fri Apr 17 18:23:03 Merge file: Component C10 copied and renamed to C10000000000
+Fri Apr 17 18:23:03 Merge file: Component D1 copied and renamed to D1000000000
+Fri Apr 17 18:23:03 Merge file: Component D2 copied and renamed to D2000000000
+Fri Apr 17 18:23:03 Merge file: Component D4 copied and renamed to D4000000000
+Fri Apr 17 18:23:03 Merge file: Component D5 copied and renamed to D5000000000
+Fri Apr 17 18:23:03 Merge file: Component D6 copied and renamed to D6000000000
+Fri Apr 17 18:23:03 Merge file: Component D7 copied and renamed to D7000000000
+Fri Apr 17 18:23:03 Merge file: Component D10 copied and renamed to D10000000000
+Fri Apr 17 18:23:03 Merge file: Component D52 copied and renamed to D52000000000
+Fri Apr 17 18:23:03 Merge file: Component D53 copied and renamed to D53000000000
+Fri Apr 17 18:23:03 Merge file: Component IC1 copied and renamed to IC1000000000
+Fri Apr 17 18:23:03 Merge file: Component J3 copied and renamed to J3000000000
+Fri Apr 17 18:23:03 Merge file: Component J4 copied and renamed to J4000000000
+Fri Apr 17 18:23:03 Merge file: Component J6 copied and renamed to J6000000000
+Fri Apr 17 18:23:03 Merge file: Component J7 copied and renamed to J7000000000
+Fri Apr 17 18:23:03 Merge file: Component J12 copied and renamed to J12000000000
+Fri Apr 17 18:23:03 Merge file: Component J13 copied and renamed to J13000000000
+Fri Apr 17 18:23:03 Merge file: Component J14 copied and renamed to J14000000000
+Fri Apr 17 18:23:03 Merge file: Component J17 copied and renamed to J17000000000
+Fri Apr 17 18:23:03 Merge file: Component J18 copied and renamed to J18000000000
+Fri Apr 17 18:23:03 Merge file: Component J19 copied and renamed to J19000000000
+Fri Apr 17 18:23:03 Merge file: Component J20 copied and renamed to J20000000000
+Fri Apr 17 18:23:03 Merge file: Component L4 copied and renamed to L4000000000
+Fri Apr 17 18:23:03 Merge file: Component PC818 copied and renamed to PC818000000000
+Fri Apr 17 18:23:03 Merge file: Component PC819 copied and renamed to PC819000000000
+Fri Apr 17 18:23:03 Merge file: Component PC820 copied and renamed to PC820000000000
+Fri Apr 17 18:23:03 Merge file: Component PC826 copied and renamed to PC826000000000
+Fri Apr 17 18:23:03 Merge file: Component R1 copied and renamed to R1000000000
+Fri Apr 17 18:23:03 Merge file: Component R9 copied and renamed to R9000000000
+Fri Apr 17 18:23:03 Merge file: Component R19 copied and renamed to R19000000000
+Fri Apr 17 18:23:03 Merge file: Component R95 copied and renamed to R95000000000
+Fri Apr 17 18:23:03 Merge file: Component R97 copied and renamed to R97000000000
+Fri Apr 17 18:23:03 Merge file: Component R98 copied and renamed to R98000000000
+Fri Apr 17 18:23:03 Merge file: Component R99 copied and renamed to R99000000000
+Fri Apr 17 18:23:03 Merge file: Component R100 copied and renamed to R100000000000
+Fri Apr 17 18:23:03 Merge file: Component R101 copied and renamed to R101000000000
+Fri Apr 17 18:23:03 Merge file: Component R102 copied and renamed to R102000000000
+Fri Apr 17 18:23:03 Merge file: Component R112 copied and renamed to R112000000000
+Fri Apr 17 18:23:03 Merge file: Component SW1 copied and renamed to SW1000000000
+Fri Apr 17 18:23:03 Merge file: Component SW10 copied and renamed to SW10000000000
+Fri Apr 17 18:23:03 Merge file: Component SW11 copied and renamed to SW11000000000
+Fri Apr 17 18:23:03 Merge file: Component SW12 copied and renamed to SW12000000000
+Fri Apr 17 18:23:03 Merge file: Component SW13 copied and renamed to SW13000000000
+Fri Apr 17 18:23:03 Merge file: Component U2 copied and renamed to U2000000000
+Fri Apr 17 18:23:03 Merge file: Component U3 copied and renamed to U3000000000
+Fri Apr 17 18:23:03 Merge file: Component Y1 copied and renamed to Y1000000000
+Fri Apr 17 18:23:03 Merge file: Component ~FV1 copied and renamed to ~FV1000000000
+Fri Apr 17 18:23:03 Merge file: Component ~FV2 copied and renamed to ~FV2000000000
+Fri Apr 17 18:23:03 Merge file: Component ~FV3 copied and renamed to ~FV3000000000
+Fri Apr 17 18:23:03 Merge file: Component ~FV4 copied and renamed to ~FV4000000000
+Fri Apr 17 18:23:03 Merge file: Component ~FV5 copied and renamed to ~FV5000000000
+Fri Apr 17 18:23:03 Merge file: Component ~FV6 copied and renamed to ~FV6000000000
+Fri Apr 17 18:23:03 Merge file: Component ~FV7 copied and renamed to ~FV7000000000
+Fri Apr 17 18:23:03 Merge file: Component ~FV8 copied and renamed to ~FV8000000000
+Fri Apr 17 18:23:03 Merge file: Net 16 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net 17 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net 18 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net 19 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net 24V merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net GND merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net GND_EARTH merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net LCD4 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net LCD5 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net LCD6 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net LCD7 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10369860 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10369864 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10370082 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10371387 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10371553 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10371561 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10371581 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10655772 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10655776 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10655804 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10655824 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10656760 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10656764 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10656822 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10656868 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10656892 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10656958 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10657018 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10657108 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10657144 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10657156 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10657176 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10669683 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10669691 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10671838 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10677901 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10678538 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10679423 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10707256 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N10711628 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net N103713271 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net PB0 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net PB1 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net PC0 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net PC1 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net ROLE1 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net ROLE2 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net ROLE3 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net ROLE4 merged into existing net
+Fri Apr 17 18:23:03 Merge file: Net VCC merged into existing net
+Fri Apr 17 18:23:03 Loaded file D:\MAY AP TRUNG\MACH AP T\NHAN LEN A4\MACH AP TRUNG AM2301-2.MAX
+Fri Apr 17 18:23:03 Merge file: Complete
+Fri Apr 17 18:23:12 Saved as file D:\MAY AP TRUNG\MACH AP T\NHAN LEN A4\MACH AP TRUNG AM2301-2 - COPY.MAX
+Sat Apr 18 15:51:18 Saved as file BACKUP1.MAX
+Sat Apr 18 16:01:18 Saved as file BACKUP1.MAX
+Sat Apr 18 16:11:18 Saved as file BACKUP1.MAX
+Sat Apr 18 16:21:18 Saved as file BACKUP1.MAX
+Sat Apr 18 16:31:19 Saved as file BACKUP1.MAX
+Sat Apr 18 16:41:19 Saved as file BACKUP1.MAX
+Sat Apr 18 16:51:19 Saved as file BACKUP1.MAX
+Sat Apr 18 17:01:20 Saved as file BACKUP1.MAX
+Sat Apr 18 17:11:20 Saved as file BACKUP1.MAX
+Sat Apr 18 17:21:20 Saved as file BACKUP1.MAX
+Sat Apr 18 17:31:20 Saved as file BACKUP1.MAX
+Sat Apr 18 17:41:21 Saved as file BACKUP1.MAX
+Sat Apr 18 17:51:21 Saved as file BACKUP1.MAX
+Sat Apr 18 18:01:21 Saved as file BACKUP1.MAX
+Sat Apr 18 18:11:22 Saved as file BACKUP1.MAX
+Sat Apr 18 18:21:22 Saved as file BACKUP1.MAX
+Sat Apr 18 18:31:22 Saved as file BACKUP1.MAX
+Sat Apr 18 18:41:22 Saved as file BACKUP1.MAX
+Sat Apr 18 18:51:23 Saved as file BACKUP1.MAX
+Sat Apr 18 19:01:23 Saved as file BACKUP1.MAX
+Sat Apr 18 19:11:23 Saved as file BACKUP1.MAX
+Sat Apr 18 19:21:24 Saved as file BACKUP1.MAX
+Sat Apr 18 19:31:24 Saved as file BACKUP1.MAX
+Sat Apr 18 19:41:24 Saved as file BACKUP1.MAX
+Sat Apr 18 19:51:24 Saved as file BACKUP1.MAX
+Sat Apr 18 20:01:25 Saved as file BACKUP1.MAX
+Sat Apr 18 20:11:25 Saved as file BACKUP1.MAX
+Sat Apr 18 20:21:25 Saved as file BACKUP1.MAX
+Sat Apr 18 20:31:26 Saved as file BACKUP1.MAX
+Sat Apr 18 20:41:26 Saved as file BACKUP1.MAX
